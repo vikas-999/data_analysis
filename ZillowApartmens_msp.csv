@@ -1,0 +1,484 @@
+,apt_names,apt_address,apt_price,apt_type,apt_link
+0,Platform Apartments,"747 Hampden Ave, Saint Paul, MN 55114","$1,245 - 2,225",Studio - 2 Beds,https://www.apartments.com/platform-apartments-saint-paul-mn/1p6mqy6/
+1,Ratio,"909 Gould Ave NE, Columbia Heights, MN 55421","$950 - 2,763",Studio - 4 Beds,https://www.apartments.com/platform-apartments-saint-paul-mn/1p6mqy6/
+2,Moda on Raymond,"760 Raymond Ave, Saint Paul, MN 55114","$1,094 - 2,875",Studio - 2 Beds,https://www.apartments.com/platform-apartments-saint-paul-mn/1p6mqy6/
+3,The Collection at Highland Bridge,"800 Cretin Ave S, Saint Paul, MN 55116","$1,355 - 6,645",Studio - 2 Beds,https://www.apartments.com/platform-apartments-saint-paul-mn/1p6mqy6/
+4,The Reeve,"4600 Lake Road Ave, Robbinsdale, MN 55422","$1,225 - 2,764",Studio - 3 Beds,https://www.apartments.com/ratio-columbia-heights-mn/b5317s9/
+5,Solhaus Apartments,"2428 Delaware St, Minneapolis, MN 55414","$965 - 2,180",1-2 Beds,https://www.apartments.com/ratio-columbia-heights-mn/b5317s9/
+6,365 Nicollet,"365 Nicollet Mall, Minneapolis, MN 55401","$1,292 - 10,779",Studio - 3 Beds,https://www.apartments.com/ratio-columbia-heights-mn/b5317s9/
+7,Arcata Apartments,"901 Xenia Ave S, Minneapolis, MN 55416","$1,590 - 2,725",Studio - 2 Beds,https://www.apartments.com/ratio-columbia-heights-mn/b5317s9/
+8,Track 29 City Apartments,"2841 Bryant Ave S, Minneapolis, MN 55408","$1,178 - 3,139",Studio - 2 Beds,https://www.apartments.com/moda-on-raymond-saint-paul-mn/mpxsf1j/
+9,LPM,"1369 Spruce Pl, Minneapolis, MN 55403","$1,209 - 6,025",Studio - 3 Beds,https://www.apartments.com/moda-on-raymond-saint-paul-mn/mpxsf1j/
+10,Minneapolis Grand Apartments,"2401 Chicago Ave, Minneapolis, MN 55404","$1,050 - 1,670",Studio - 2 Beds,https://www.apartments.com/moda-on-raymond-saint-paul-mn/mpxsf1j/
+11,Xenia Apartments,"770 Xenia Ave S, Minneapolis, MN 55416","$1,620 - 3,855",1-2 Beds,https://www.apartments.com/moda-on-raymond-saint-paul-mn/mpxsf1j/
+12,HQ Apartments,"816 Portland Ave S, Minneapolis, MN 55404","$1,075 - 4,580",Studio - 3 Beds,https://www.apartments.com/the-collection-at-highland-bridge-saint-paul-mn/9fjcmh6/
+13,Rafter,"333 E Hennepin Ave, Minneapolis, MN 55414","$1,255 - 8,765",Studio - 3 Beds,https://www.apartments.com/the-collection-at-highland-bridge-saint-paul-mn/9fjcmh6/
+14,Artistry on 10th,"95 S 10th St, Minneapolis, MN 55403","$915 - 3,809",Studio - 2 Beds,https://www.apartments.com/the-collection-at-highland-bridge-saint-paul-mn/9fjcmh6/
+15,Lux Apartments,"6100 Summit Dr N, Minneapolis, MN 55430","$1,239 - 1,669",1-2 Beds,https://www.apartments.com/the-collection-at-highland-bridge-saint-paul-mn/9fjcmh6/
+16,Daymark Uptown,"1455 W Lake St, Minneapolis, MN 55408","$1,070 - 3,615",Studio - 2 Beds,https://www.apartments.com/the-reeve-robbinsdale-mn/v7p4gje/
+17,Jax Apartments,"2333 Jackson St NE, Minneapolis, MN 55418","$950 - 2,010",Studio - 2 Beds,https://www.apartments.com/the-reeve-robbinsdale-mn/v7p4gje/
+18,LAKEHAUS,"3100 W Lake St, Minneapolis, MN 55416","$1,685 - 9,063",1-2 Beds,https://www.apartments.com/the-reeve-robbinsdale-mn/v7p4gje/
+19,Marquee,"1410 Nicollet Ave, Minneapolis, MN 55403","$1,130 - 2,145",Studio - 2 Beds,https://www.apartments.com/the-reeve-robbinsdale-mn/v7p4gje/
+20,270 Hennepin,"270 Hennepin Ave, Minneapolis, MN 55402","$1,335 - 12,045",Studio - 3 Beds,https://www.apartments.com/solhaus-apartments-minneapolis-mn/2vhc6pb/
+21,240 Park Avenue,"240 Park Ave, Minneapolis, MN 55415","$1,450 - 9,500",1-3 Beds,https://www.apartments.com/solhaus-apartments-minneapolis-mn/2vhc6pb/
+22,Lucille,"1025 Main St, Minneapolis, MN 55413","$1,295 - 3,550",Studio - 3 Beds,https://www.apartments.com/solhaus-apartments-minneapolis-mn/2vhc6pb/
+23,Huxley Apartments,"657 22nd Ave NE, Minneapolis, MN 55418","$1,099 - 2,335",Studio - 2 Beds,https://www.apartments.com/solhaus-apartments-minneapolis-mn/2vhc6pb/
+24,Moment,"650 Portland Ave, Minneapolis, MN 55415","$1,577 - 5,272",Studio - 2 Beds,https://www.apartments.com/365-nicollet-minneapolis-mn/l4fv1ld/
+25,The Larking,"615 S 8th St, Minneapolis, MN 55404","$1,199 - 6,701",Studio - 3 Beds,https://www.apartments.com/365-nicollet-minneapolis-mn/l4fv1ld/
+26,York Place Apartments Edina,"3121 69th St W, Edina, MN 55435","$1,199 - 2,160",Studio - 2 Beds,https://www.apartments.com/365-nicollet-minneapolis-mn/l4fv1ld/
+27,Excelsior & Grand,"4732 Excelsior Blvd, Saint Louis Park, MN 55416","$1,499 - 3,999",Studio - 2 Beds,https://www.apartments.com/365-nicollet-minneapolis-mn/l4fv1ld/
+28,Lake Pointe,"3413-3433 53rd Ave N, Brooklyn Center, MN 55429","$999 - 1,199",1 Bed,https://www.apartments.com/arcata-apartments-minneapolis-mn/9rxh8n7/
+29,The Aubrey,"4220-4230 Nicollet Ave, Minneapolis, MN 55409","$2,699",2 Beds,https://www.apartments.com/arcata-apartments-minneapolis-mn/9rxh8n7/
+30,The Vicinity,"205 Park Ave, Minneapolis, MN 55415","$1,634 - 4,475",Studio - 2 Beds,https://www.apartments.com/arcata-apartments-minneapolis-mn/9rxh8n7/
+31,1800 Lake,"1800 W Lake St, Minneapolis, MN 55408","$1,905 - 3,130",1-2 Beds,https://www.apartments.com/arcata-apartments-minneapolis-mn/9rxh8n7/
+32,South Wirth Apartments,"501 Theodore Wirth Pky, Minneapolis, MN 55422","$1,449 - 2,999",1-2 Beds,https://www.apartments.com/track-29-city-apartments-minneapolis-mn/xd2xg0p/
+33,22 on the River,"22 27th Ave SE, Minneapolis, MN 55414","$912 - 2,698",Studio - 2 Beds,https://www.apartments.com/track-29-city-apartments-minneapolis-mn/xd2xg0p/
+34,The Encore,"212 10th Ave S, Minneapolis, MN 55415","$1,837 - 9,268",Studio - 3 Beds,https://www.apartments.com/track-29-city-apartments-minneapolis-mn/xd2xg0p/
+35,Forte on the Park,"1125 S 2nd St, Minneapolis, MN 55415","$1,592 - 7,435",Studio - 2 Beds,https://www.apartments.com/track-29-city-apartments-minneapolis-mn/xd2xg0p/
+36,Ironclad Residential,"811 Washington Ave S, Minneapolis, MN 55415","$1,600 - 4,695",1-2 Beds,https://www.apartments.com/lpm-minneapolis-mn/htc4991/
+37,Smyth Lofts | Luxury Lofts in the North Loop,"212 N 2nd St, Minneapolis, MN 55401",Call for Rent,1-3 Beds,https://www.apartments.com/lpm-minneapolis-mn/htc4991/
+38,Laguna Apartments,"2900 Irving Ave S, Minneapolis, MN 55408","$1,495 - 3,395",1-3 Beds,https://www.apartments.com/lpm-minneapolis-mn/htc4991/
+39,EXPO,"200 University Ave SE, Minneapolis, MN 55414","$1,625 - 6,995",1-3 Beds,https://www.apartments.com/lpm-minneapolis-mn/htc4991/
+40,The Duffey,"528 Washington Ave, Minneapolis, MN 55401","$1,350 - 3,175",Studio - 2 Beds,https://www.apartments.com/minneapolis-grand-apartments-minneapolis-mn/bj3z6n9/
+41,Solhavn/Soltva/NOLO Flats,"815 N 2nd St, Minneapolis, MN 55401","$1,573 - 2,846",1-2 Beds,https://www.apartments.com/minneapolis-grand-apartments-minneapolis-mn/bj3z6n9/
+42,Arrive Loring Park,"18 W 15th St, Minneapolis, MN 55403","$1,290 - 3,345",Studio - 2 Beds,https://www.apartments.com/minneapolis-grand-apartments-minneapolis-mn/bj3z6n9/
+43,Maverick North Loop Apartments,"120 Hennepin Ave, Minneapolis, MN 55401",Call for Rent,Studio - 3 Beds,https://www.apartments.com/minneapolis-grand-apartments-minneapolis-mn/bj3z6n9/
+44,Borealis,"721 N 1st St, Minneapolis, MN 55401","$1,985 - 3,275",1-2 Beds,https://www.apartments.com/xenia-apartments-minneapolis-mn/v2crl6g/
+45,Gibson Apartments,"703 NE Central Ave, Minneapolis, MN 55414","$1,507 - 4,586",Studio - 2 Beds,https://www.apartments.com/xenia-apartments-minneapolis-mn/v2crl6g/
+46,Red 20 Apartments,"20 6th St NE, Minneapolis, MN 55413","$1,411 - 3,828",Studio - 3 Beds,https://www.apartments.com/xenia-apartments-minneapolis-mn/v2crl6g/
+47,Walkway,"1320 W Lake St, Minneapolis, MN 55408","$1,391 - 4,061",1-3 Beds,https://www.apartments.com/xenia-apartments-minneapolis-mn/v2crl6g/
+48,The Archive,"110 N 1st St, Minneapolis, MN 55401","$1,525 - 3,595",Studio - 2 Beds,https://www.apartments.com/hq-apartments-minneapolis-mn/1ghhjk5/
+49,Ox-Op Apartments,"1111 S Washington Ave, Minneapolis, MN 55415","$1,241 - 6,278",Studio - 2 Beds,https://www.apartments.com/hq-apartments-minneapolis-mn/1ghhjk5/
+50,The Station at Malcolm Yards,"485 Malcolm Ave SE, Minneapolis, MN 55414","$1,100 - 2,395",Studio - 2 Beds,https://www.apartments.com/hq-apartments-minneapolis-mn/1ghhjk5/
+51,One Ten Grant,"110 W Grant St, Minneapolis, MN 55403","$1,331 - 2,947",1-2 Beds,https://www.apartments.com/hq-apartments-minneapolis-mn/1ghhjk5/
+52,The Elysian,"711 4th St SE, Minneapolis, MN 55414","$1,750 - 3,995",2-4 Beds,https://www.apartments.com/rafter-minneapolis-mn/h0w7wj1/
+53,The Nic on Fifth,"465 Nicollet Mall, Minneapolis, MN 55401","$1,261 - 10,405",Studio - 3 Beds,https://www.apartments.com/rafter-minneapolis-mn/h0w7wj1/
+54,The Bohen,"2851 Hennepin Ave, Minneapolis, MN 55408","$1,315 - 4,190",Studio - 3 Beds,https://www.apartments.com/rafter-minneapolis-mn/h0w7wj1/
+55,Tree Tops,"3535 S Bryant Ave, Minneapolis, MN 55408","$1,095 - 1,210",Studio,https://www.apartments.com/rafter-minneapolis-mn/h0w7wj1/
+56,Vesi,"730 1/2 N 1st St, Minneapolis, MN 55401","$1,760 - 6,065",1-2 Beds,https://www.apartments.com/artistry-on-10th-minneapolis-mn/jnqm575/
+57,Parkway Commons,"4141 W 31st St, Minneapolis, MN 55416","$1,790 - 1,895",Studio - 2 Beds,https://www.apartments.com/artistry-on-10th-minneapolis-mn/jnqm575/
+58,FreightYard Townhomes and Flats,"50 4th Ave N, Minneapolis, MN 55401","$1,515 - 2,205",1-2 Beds,https://www.apartments.com/artistry-on-10th-minneapolis-mn/jnqm575/
+59,Hencen,"455 Central Ave SE, Minneapolis, MN 55414","$1,195 - 3,250",Studio - 2 Beds,https://www.apartments.com/artistry-on-10th-minneapolis-mn/jnqm575/
+60,The Abbott,"3401 W 44th St, Minneapolis, MN 55410","$1,575 - 4,850",1-2 Beds,https://www.apartments.com/lux-apartments-minneapolis-mn/b74bl69/
+61,AVID,"3431 Dupont Ave S, Minneapolis, MN 55408","$1,165 - 1,195",Studio - 1 Bed,https://www.apartments.com/lux-apartments-minneapolis-mn/b74bl69/
+62,The Murals of LynLake,"2833 Lyndale Ave S, Minneapolis, MN 55408","$1,285 - 2,400",Studio - 2 Beds,https://www.apartments.com/lux-apartments-minneapolis-mn/b74bl69/
+63,Cortland Mill District,"313 Washington Ave S, Minneapolis, MN 55415","$1,227 - 2,614",Studio - 2 Beds,https://www.apartments.com/lux-apartments-minneapolis-mn/b74bl69/
+64,Sela Campus University Apartments,"701 University Ave SE, Minneapolis, MN 55414","$1,049",1 Bed,https://www.apartments.com/daymark-uptown-minneapolis-mn/xpy2mtp/
+65,Marquette Place,"1314 Marquette Ave, Minneapolis, MN 55403","$1,619 - 5,288",1-4 Beds,https://www.apartments.com/daymark-uptown-minneapolis-mn/xpy2mtp/
+66,222 Hennepin,"222 Hennepin Ave, Minneapolis, MN 55401","$1,540 - 3,275",Studio - 2 Beds,https://www.apartments.com/daymark-uptown-minneapolis-mn/xpy2mtp/
+67,Variant,"315 N 7th Ave, Minneapolis, MN 55401","$1,110 - 4,203",Studio - 2 Beds,https://www.apartments.com/daymark-uptown-minneapolis-mn/xpy2mtp/
+68,Good Dwelling,"2640 Nicollet Ave, Minneapolis, MN 55408","$1,254 - 2,015",1-2 Beds,https://www.apartments.com/jax-apartments-minneapolis-mn/gjv32kw/
+69,Laurel Village,"1254 Hennepin Ave N, Minneapolis, MN 55403","$1,050 - 2,300",Studio - 2 Beds,https://www.apartments.com/jax-apartments-minneapolis-mn/gjv32kw/
+70,Seven Corners,"1400 S 2nd St, Minneapolis, MN 55454","$1,250",2 Beds,https://www.apartments.com/jax-apartments-minneapolis-mn/gjv32kw/
+71,The Miles Uptown,"2837 Dupont Ave S, Minneapolis, MN 55408","$1,192 - 5,437",Studio - 2 Beds,https://www.apartments.com/jax-apartments-minneapolis-mn/gjv32kw/
+72,The Paxon,"360 N 1st St, Minneapolis, MN 55401","$1,380 - 2,198",Studio - 2 Beds,https://www.apartments.com/lakehaus-minneapolis-mn/hkb5332/
+73,Five15 on the Park,"515 15th Ave S, Minneapolis, MN 55454","$1,368 - 1,914",1-2 Beds,https://www.apartments.com/lakehaus-minneapolis-mn/hkb5332/
+74,ZEO,"1420 W 32nd St, Minneapolis, MN 55408","$1,265 - 1,500",1 Bed,https://www.apartments.com/lakehaus-minneapolis-mn/hkb5332/
+75,Humboldt Terrace,"2725 Humboldt Ave S, Minneapolis, MN 55408","$1,349",2 Beds,https://www.apartments.com/lakehaus-minneapolis-mn/hkb5332/
+76,Junction Flats,"643 N 5th St, Minneapolis, MN 55401","$1,220 - 2,980",Studio - 2 Beds,https://www.apartments.com/marquee-minneapolis-mn/rne1q82/
+77,The Shale,"4757 Hiawatha Ave, Minneapolis, MN 55406","$1,094 - 3,015",Studio - 2 Beds,https://www.apartments.com/marquee-minneapolis-mn/rne1q82/
+78,Elan Uptown,"2837 Emerson Ave S, Minneapolis, MN 55408","$1,299 - 7,676",Studio - 2 Beds,https://www.apartments.com/marquee-minneapolis-mn/rne1q82/
+79,3828 Apartments,"3806 28th Ave, Minneapolis, MN 55406","$1,485 - 1,845",1-2 Beds,https://www.apartments.com/marquee-minneapolis-mn/rne1q82/
+80,4Marq,"400 Marquette Ave, Minneapolis, MN 55401","$1,260 - 6,367",Studio - 3 Beds,https://www.apartments.com/270-hennepin-minneapolis-mn/1eej1c4/
+81,The Venue On Knox,"2893 Knox Ave S, Minneapolis, MN 55408","$1,090 - 2,405",Studio - 2 Beds,https://www.apartments.com/270-hennepin-minneapolis-mn/1eej1c4/
+82,Aberdeen Apartments,"500 E 14th St, Minneapolis, MN 55404","$995 - 1,550",Studio,https://www.apartments.com/270-hennepin-minneapolis-mn/1eej1c4/
+83,Foundry Lake Street,"3118 West Lake St, Minneapolis, MN 55416","$1,496 - 4,305",Studio - 3 Beds,https://www.apartments.com/270-hennepin-minneapolis-mn/1eej1c4/
+84,The Asher,"1125 Lagoon Ave, Minneapolis, MN 55408","$1,160 - 3,390",Studio - 3 Beds,https://www.apartments.com/240-park-avenue-minneapolis-mn/l25kw2f/
+85,Lago Apartments,"500 W Lake St, Minneapolis, MN 55408","$1,090 - 2,185",Studio - 2 Beds,https://www.apartments.com/240-park-avenue-minneapolis-mn/l25kw2f/
+86,The Beach Club Residences,"2900 Thomas Ave S, Minneapolis, MN 55416","$1,565 - 10,019",Studio - 4 Beds,https://www.apartments.com/240-park-avenue-minneapolis-mn/l25kw2f/
+87,Sora,"600 S 5th Ave, Minneapolis, MN 55415","$1,000 - 2,966",Studio - 2 Beds,https://www.apartments.com/240-park-avenue-minneapolis-mn/l25kw2f/
+88,Dock Street Flats,"337 N Washington Ave, Minneapolis, MN 55401","$1,499 - 2,599",Studio - 2 Beds,https://www.apartments.com/lucille-minneapolis-mn/6vw33et/
+89,Flux Apartments,"2838 Fremont Ave S, Minneapolis, MN 55408","$1,185 - 3,015",Studio - 2 Beds,https://www.apartments.com/lucille-minneapolis-mn/6vw33et/
+90,3848 West Broadway,"3848-3854 W Broadway Ave, Minneapolis, MN 55422","$1,049",1-2 Beds,https://www.apartments.com/lucille-minneapolis-mn/6vw33et/
+91,PURE Lowry,"2000 Lyndale Ave, Minneapolis, MN 55405","$1,094 - 2,608",Studio - 2 Beds,https://www.apartments.com/lucille-minneapolis-mn/6vw33et/
+92,Luna,"2520 8th St S, Minneapolis, MN 55454","$1,113 - 2,390",Studio - 2 Beds,https://www.apartments.com/huxley-apartments-minneapolis-mn/lr4n6gd/
+93,B-Side Apartments,"3027 22nd Ave S, Minneapolis, MN 55407","$999 - 2,350",Studio - 2 Beds,https://www.apartments.com/huxley-apartments-minneapolis-mn/lr4n6gd/
+94,Rex26,"2621 Lyndale Ave S, Minneapolis, MN 55408","$1,233 - 2,872",1-2 Beds,https://www.apartments.com/huxley-apartments-minneapolis-mn/lr4n6gd/
+95,The Lily Pad,"3601 Nicollet Ave, Minneapolis, MN 55409","$1,320",1 Bed,https://www.apartments.com/huxley-apartments-minneapolis-mn/lr4n6gd/
+96,Chroma,"113 E 26th St, Minneapolis, MN 55404","$1,191 - 2,961",1-3 Beds,https://www.apartments.com/moment-minneapolis-mn/s1qg2g4/
+97,Loring Park,"1300 Yale Pl, Minneapolis, MN 55403","$1,016 - 2,985",Studio - 3 Beds,https://www.apartments.com/moment-minneapolis-mn/s1qg2g4/
+98,Rivergate Apartments,"115 2nd Ave S, Minneapolis, MN 55401","$1,085 - 1,485",Studio - 2 Beds,https://www.apartments.com/moment-minneapolis-mn/s1qg2g4/
+99,Nico Apartments,"1702 Nicollet Ave, Minneapolis, MN 55403","$945 - 2,695",Studio - 3 Beds,https://www.apartments.com/moment-minneapolis-mn/s1qg2g4/
+100,Bolero Flats Apartments,"1117 Marquette Ave, Minneapolis, MN 55403","$1,174 - 2,676",1-2 Beds,https://www.apartments.com/the-larking-minneapolis-mn/wvyehnl/
+101,LaSalle Apartments,"36 S 9th St, Minneapolis, MN 55402","$860 - 1,599",Studio - 1 Bed,https://www.apartments.com/the-larking-minneapolis-mn/wvyehnl/
+102,Deco 265,"265 Girard Ave N, Minneapolis, MN 55405","$1,220 - 1,990",Studio - 2 Beds,https://www.apartments.com/the-larking-minneapolis-mn/wvyehnl/
+103,Colfax Villas I,"3611 Colfax Ave S, Minneapolis, MN 55409","$899 - 1,049",Studio - 1 Bed,https://www.apartments.com/the-larking-minneapolis-mn/wvyehnl/
+104,Cedars 94,"2220 E Franklin Ave, Minneapolis, MN 55404","$887 - 1,771",Studio - 2 Beds,https://www.apartments.com/york-place-apartments-edina-edina-mn/xh8mdsm/
+105,Rosa Apartments | MPLS,"4201 Nicollet Ave, Minneapolis, MN 55409","$940 - 2,565",Studio - 3 Beds,https://www.apartments.com/york-place-apartments-edina-edina-mn/xh8mdsm/
+106,Yugo Minneapolis Sydney Hall,"308 15th Ave SE, Minneapolis, MN 55414","$649 - 2,118",Studio - 4 Beds,https://www.apartments.com/york-place-apartments-edina-edina-mn/xh8mdsm/
+107,Windom Gables Townhomes,"33 Wentworth Ct E, Minneapolis, MN 55419","$950 - 1,939",1-3 Beds,https://www.apartments.com/york-place-apartments-edina-edina-mn/xh8mdsm/
+108,Stevens Community Apartments,"128 E 18th St, Minneapolis, MN 55403","$700 - 1,600",Studio - 2 Beds,https://www.apartments.com/excelsior-grand-saint-louis-park-mn/49h6srl/
+109,Landsby on Penn,"6200 Penn Ave S, Richfield, MN 55423","$1,635 - 4,001",Studio - 3 Beds,https://www.apartments.com/excelsior-grand-saint-louis-park-mn/49h6srl/
+110,Elan West End,"1325 Utica Ave S, Saint Louis Park, MN 55416","$1,781 - 2,975",Studio - 3 Beds,https://www.apartments.com/excelsior-grand-saint-louis-park-mn/49h6srl/
+111,740 River Drive,"740 Mississippi River Blvd S, Saint Paul, MN 55116","$1,480 - 5,016",Studio - 4 Beds,https://www.apartments.com/excelsior-grand-saint-louis-park-mn/49h6srl/
+112,CE Flats,"2410 W University Ave W, Saint Paul, MN 55114","$1,544 - 9,205",Studio - 2 Beds,https://www.apartments.com/lake-pointe-brooklyn-center-mn/0ddqlb3/
+113,Astor Place Of Edina,"6455 S York Ave, Edina, MN 55435","$1,284 - 2,064",Studio - 2 Beds,https://www.apartments.com/lake-pointe-brooklyn-center-mn/0ddqlb3/
+114,Millennium Edina,"3250 W 66th St, Edina, MN 55435","$1,415 - 3,516",Studio - 3 Beds,https://www.apartments.com/lake-pointe-brooklyn-center-mn/0ddqlb3/
+115,Midline Apartments,"2227 University Ave, Saint Paul, MN 55114","$1,245 - 2,195",Studio - 2 Beds,https://www.apartments.com/lake-pointe-brooklyn-center-mn/0ddqlb3/
+116,The Lyric at Carleton Place,"765 N Hampden Ave, Saint Paul, MN 55114","$1,385 - 2,450",Studio - 2 Beds,https://www.apartments.com/the-aubrey-minneapolis-mn/em6c47q/
+117,Marshall Lofts,"2105 Marshall Ave, Saint Paul, MN 55104","$1,895 - 3,975",2-3 Beds,https://www.apartments.com/the-aubrey-minneapolis-mn/em6c47q/
+118,Verge,"3601 Park Center Blvd, Saint Louis Park, MN 55416","$1,520 - 12,387",1-2 Beds,https://www.apartments.com/the-aubrey-minneapolis-mn/em6c47q/
+119,RAY,"2323 Charles Ave, Saint Paul, MN 55114","$1,170 - 1,350",Studio - 2 Beds,https://www.apartments.com/the-vicinity-minneapolis-mn/2xrym49/
+120,The Ruby,"3750 Silver Lake Rd NE, Saint Anthony, MN 55421","$1,454 - 8,975",Studio - 3 Beds,https://www.apartments.com/the-vicinity-minneapolis-mn/2xrym49/
+121,Arrive 4301,"4301 Park Glen Rd, Saint Louis Park, MN 55416","$1,065 - 2,425",Studio - 2 Beds,https://www.apartments.com/the-vicinity-minneapolis-mn/2xrym49/
+122,Novo Apartments,"2400 W 66th St, Richfield, MN 55423","$1,185 - 3,429",Studio - 2 Beds,https://www.apartments.com/the-vicinity-minneapolis-mn/2xrym49/
+123,Minikahda Court Apartments,"3504 Minikahda Ct, Saint Louis Park, MN 55416","$1,054 - 1,380",Studio - 2 Beds,https://www.apartments.com/1800-lake-minneapolis-mn/sxgl4j7/
+124,THE LAKES RESIDENCES,"2622 W Lake St, Minneapolis, MN 55416","$2,500 - 12,938",1-2 Beds,https://www.apartments.com/1800-lake-minneapolis-mn/sxgl4j7/
+125,311 Kenwood Apartments | Spacious 1-Bedroo...,"311 Kenwood Pky, Minneapolis, MN 55403","$1,405 - 1,605",1 Bed,https://www.apartments.com/1800-lake-minneapolis-mn/sxgl4j7/
+126,The Abbey Apartments,"47 Spruce Pl, Minneapolis, MN 55403","$1,399 - 2,325",Studio - 2 Beds,https://www.apartments.com/1800-lake-minneapolis-mn/sxgl4j7/
+127,Laurel & Olive,"3136 Minnehaha Ave, Minneapolis, MN 55406","$1,095 - 2,050",Studio - 2 Beds,https://www.apartments.com/south-wirth-apartments-minneapolis-mn/m0mg08j/
+128,SoPHI Apartments | Spacious Studios!,"811 E Lake St, Minneapolis, MN 55407","$1,200 - 1,250",Studio,https://www.apartments.com/south-wirth-apartments-minneapolis-mn/m0mg08j/
+129,Rym Apartments,"309 Ulysses St, Minneapolis, MN 55413","$1,175 - 1,275",Studio,https://www.apartments.com/south-wirth-apartments-minneapolis-mn/m0mg08j/
+130,1000 Main Street,"1000 Main St NE, Minneapolis, MN 55413","$1,225 - 2,445",Studio - 2 Beds,https://www.apartments.com/south-wirth-apartments-minneapolis-mn/m0mg08j/
+131,Velo,"115 N 2nd St, Minneapolis, MN 55401","$1,236 - 2,757",Studio - 2 Beds,https://www.apartments.com/22-on-the-river-minneapolis-mn/eb8qz0m/
+132,Phoenix North Loop,"915 Washington Ave N, Minneapolis, MN 55401","$1,599 - 2,999",1-2 Beds,https://www.apartments.com/22-on-the-river-minneapolis-mn/eb8qz0m/
+133,Mill District City Club Apartments,"225 Portland Ave, Minneapolis, MN 55401","$1,375 - 3,250",Studio - 3 Beds,https://www.apartments.com/22-on-the-river-minneapolis-mn/eb8qz0m/
+134,Blue,"2922 Aldrich Ave S, Minneapolis, MN 55408","$1,269 - 3,984",Studio - 2 Beds,https://www.apartments.com/the-encore-minneapolis-mn/0dkjsr1/
+135,Gatsby Apartments,"1400 Park Ave, Minneapolis, MN 55404","$1,390 - 2,705",Studio - 2 Beds,https://www.apartments.com/the-encore-minneapolis-mn/0dkjsr1/
+136,Linden Flats in Linden Hills,"4418-4422 Beard Ave, Minneapolis, MN 55410","$1,395 - 2,840",1-2 Beds,https://www.apartments.com/the-encore-minneapolis-mn/0dkjsr1/
+137,East River Terrace,"2101 E River Ter, Minneapolis, MN 55414","$895 - 1,150",Studio - 2 Beds,https://www.apartments.com/the-encore-minneapolis-mn/0dkjsr1/
+138,Lake Harriet Commons,"4416 S Chowen Ave, Minneapolis, MN 55410","$1,255 - 1,275",2 Beds,https://www.apartments.com/forte-on-the-park-minneapolis-mn/bmtqjg9/
+139,Uptown Square,"2908 Bryant Ave S, Minneapolis, MN 55408","$899 - 1,189",Studio - 1 Bed,https://www.apartments.com/forte-on-the-park-minneapolis-mn/bmtqjg9/
+140,The Central,"3503 2nd Ave S, Minneapolis, MN 55408","$1,015 - 1,149",Studio - 3 Beds,https://www.apartments.com/forte-on-the-park-minneapolis-mn/bmtqjg9/
+141,The Lorient,"3901 Sunnyside Rd S, Edina, MN 55424","$2,950 - 5,459",1-2 Beds,https://www.apartments.com/forte-on-the-park-minneapolis-mn/bmtqjg9/
+142,View 44,"4425 Valley View Rd, Edina, MN 55424","$2,997 - 4,225",1-2 Beds,https://www.apartments.com/ironclad-residential-minneapolis-mn/6z0vvcv/
+143,Arrive Inglewood Trails,"3200 Inglewood Ave S, Saint Louis Park, MN 55416","$1,460 - 2,875",Studio - 2 Beds,https://www.apartments.com/ironclad-residential-minneapolis-mn/6z0vvcv/
+144,Central Park West,"1511 Utica Ave S, Saint Louis Park, MN 55416","$1,605 - 4,915",Studio - 2 Beds,https://www.apartments.com/ironclad-residential-minneapolis-mn/6z0vvcv/
+145,Parker Station Flats,"3600 France Ave N, Robbinsdale, MN 55422","$1,260 - 2,390",Studio - 2 Beds,https://www.apartments.com/smyth-lofts-luxury-lofts-in-the-north-loop-minneapolis-mn/pl8jcxs/
+146,Grand & Finn Apartments,"2124 Grand Ave, Saint Paul, MN 55105",$830 - 850,1 Bed,https://www.apartments.com/smyth-lofts-luxury-lofts-in-the-north-loop-minneapolis-mn/pl8jcxs/
+147,Riley Apartments,"600 W 64th St W, Richfield, MN 55423","$1,230 - 1,480",Studio - 2 Beds,https://www.apartments.com/smyth-lofts-luxury-lofts-in-the-north-loop-minneapolis-mn/pl8jcxs/
+148,Moerty Apartments,"821 6th Ave SE, Minneapolis, MN 55414","$1,295 - 1,595",Studio - 1 Bed,https://www.apartments.com/smyth-lofts-luxury-lofts-in-the-north-loop-minneapolis-mn/pl8jcxs/
+149,Noko,"4720 Longfellow Avenue S, Minneapolis, MN 55407","$1,400 - 3,510",Studio - 2 Beds,https://www.apartments.com/laguna-apartments-minneapolis-mn/kp0e96c/
+150,The M on Hennepin,"10 2nd St SE, Minneapolis, MN 55413","$1,495 - 2,620",Studio - 3 Beds,https://www.apartments.com/laguna-apartments-minneapolis-mn/kp0e96c/
+151,Be @ Axon Green,"3144 Chowen Ave S, Minneapolis, MN 55416","$1,400 - 2,985",Studio - 2 Beds,https://www.apartments.com/laguna-apartments-minneapolis-mn/kp0e96c/
+152,Marko Apartments- Pre-leasing for Fall 2023,"711 8th St SE, Minneapolis, MN 55414","$1,250 - 1,850",Studio - 1 Bed,https://www.apartments.com/laguna-apartments-minneapolis-mn/kp0e96c/
+153,Risor St. Louis Park - Active Adult 55+,"3510 Beltline Blvd, Minneapolis, MN 55416","$1,695 - 5,060",1-3 Beds,https://www.apartments.com/expo-minneapolis-mn/90sk3p6/
+154,Linden 43,"2810 W 43rd St W, Minneapolis, MN 55410","$2,995 - 5,125",1-2 Beds,https://www.apartments.com/expo-minneapolis-mn/90sk3p6/
+155,The Mezz at West Lake Quarter - Now Open!,"3050 Abbott Ave, Minneapolis, MN 55416","$1,495 - 3,395",Studio - 2 Beds,https://www.apartments.com/expo-minneapolis-mn/90sk3p6/
+156,Coze Flats,"628 University Ave SE, Minneapolis, MN 55414","$1,096 - 1,395",Studio - 1 Bed,https://www.apartments.com/expo-minneapolis-mn/90sk3p6/
+157,Tula,"3009 Holmes Ave S, Minneapolis, MN 55408","$1,195 - 1,550",Studio - 1 Bed,https://www.apartments.com/the-duffey-minneapolis-mn/ffrh7ps/
+158,N and E,"107 13th Ave NE, Minneapolis, MN 55413","$1,279 - 2,776",Studio - 2 Beds,https://www.apartments.com/the-duffey-minneapolis-mn/ffrh7ps/
+159,724 Lofts,"724 N 1st St, Minneapolis, MN 55401","$1,695 - 3,195",2-3 Beds,https://www.apartments.com/the-duffey-minneapolis-mn/ffrh7ps/
+160,2715 dupont ave S.,"2715 Dupont Ave S, Minneapolis, MN 55408","$1,049",1-2 Beds,https://www.apartments.com/the-duffey-minneapolis-mn/ffrh7ps/
+161,Spectrum Apartments,"815 9th Ave SE, Minneapolis, MN 55414","$1,295 - 3,275",1-4 Beds,https://www.apartments.com/solhavn-soltva-nolo-flats-minneapolis-mn/tn2pnyb/
+162,Grain Belt,"1215 Marshall St NE, Minneapolis, MN 55413","$1,435 - 2,922",Studio - 3 Beds,https://www.apartments.com/solhavn-soltva-nolo-flats-minneapolis-mn/tn2pnyb/
+163,New Boston Square,"2015 NE Central Ave, Minneapolis, MN 55418","$1,725 - 1,775",2 Beds,https://www.apartments.com/solhavn-soltva-nolo-flats-minneapolis-mn/tn2pnyb/
+164,Hiawatha Flats,"3625 E 43rd St, Minneapolis, MN 55406","$1,195 - 2,095",Studio - 2 Beds,https://www.apartments.com/solhavn-soltva-nolo-flats-minneapolis-mn/tn2pnyb/
+165,Churchill,"111 Marquette Ave S, Minneapolis, MN 55401","$1,237 - 2,504",1-2 Beds,https://www.apartments.com/arrive-loring-park-minneapolis-mn/q8c4djx/
+166,Courtyard,"2524 Highway 100 S, Minneapolis, MN 55416","$1,125 - 1,415",1-2 Beds,https://www.apartments.com/arrive-loring-park-minneapolis-mn/q8c4djx/
+167,Fair Oaks Apartment Homes,"2421 3rd Ave S, Minneapolis, MN 55404","$1,165 - 1,550",1-2 Beds,https://www.apartments.com/arrive-loring-park-minneapolis-mn/q8c4djx/
+168,Everlake Apartments,"2615 E 29th St, Minneapolis, MN 55406","$1,100 - 1,335",Studio - 2 Beds,https://www.apartments.com/maverick-north-loop-apartments-minneapolis-mn/yq0x0yv/
+169,Lyndy Apartments,"2905 Harriet Ave S, Minneapolis, MN 55408","$1,162 - 3,552",Studio - 3 Beds,https://www.apartments.com/maverick-north-loop-apartments-minneapolis-mn/yq0x0yv/
+170,Talo,"5100 Wayzata Blvd, Minneapolis, MN 55416","$1,682 - 5,792",Studio - 3 Beds,https://www.apartments.com/maverick-north-loop-apartments-minneapolis-mn/yq0x0yv/
+171,The Metro Apartments,"90 S 9th St, Minneapolis, MN 55402","$1,150 - 1,895",Studio - 2 Beds,https://www.apartments.com/maverick-north-loop-apartments-minneapolis-mn/yq0x0yv/
+172,East End,"240 Chicago Ave, Minneapolis, MN 55415","$1,322 - 3,710",Studio - 2 Beds,https://www.apartments.com/borealis-minneapolis-mn/vt278bd/
+173,Brook Avenue Housing Cooperative,"1220 Brook Ave SE, Minneapolis, MN 55414","$1,079 - 2,495",Studio - 3 Beds,https://www.apartments.com/borealis-minneapolis-mn/vt278bd/
+174,The Laurel,"1506 Laurel Ave, Minneapolis, MN 55403","$1,245",Studio - 1 Bed,https://www.apartments.com/borealis-minneapolis-mn/vt278bd/
+175,Viridium Apartments,"721 N Third St, Minneapolis, MN 55401","$1,205 - 3,450",Studio - 3 Beds,https://www.apartments.com/borealis-minneapolis-mn/vt278bd/
+176,Lime,"2904 Lyndale Ave S, Minneapolis, MN 55408","$1,162 - 3,531",1-2 Beds,https://www.apartments.com/gibson-apartments-minneapolis-mn/q8w0cyx/
+177,Creamette Historic Lofts,"432 1st St N, Minneapolis, MN 55401",Call for Rent,1-2 Beds,https://www.apartments.com/gibson-apartments-minneapolis-mn/q8w0cyx/
+178,Axon Green,"3140 Chowen Ave S, Minneapolis, MN 55416","$1,055 - 2,735",Studio - 2 Beds,https://www.apartments.com/gibson-apartments-minneapolis-mn/q8w0cyx/
+179,Eitel Apartments,"1367 Willow St, Minneapolis, MN 55403","$1,107 - 2,937",Studio - 2 Beds,https://www.apartments.com/gibson-apartments-minneapolis-mn/q8w0cyx/
+180,Cove at Linden Hills,"4261 Sheridan Ave S, Minneapolis, MN 55410","$995 - 1,695",Studio - 2 Beds,https://www.apartments.com/red-20-apartments-minneapolis-mn/zy7ff7w/
+181,City Limits Apartments,"127 E 59th St, Minneapolis, MN 55419","$1,035 - 1,375",1-2 Beds,https://www.apartments.com/red-20-apartments-minneapolis-mn/zy7ff7w/
+182,Fieldhouse,"805 15th Ave SE, Minneapolis, MN 55414","$699 - 1,630",1-5 Beds,https://www.apartments.com/red-20-apartments-minneapolis-mn/zy7ff7w/
+183,"Stage Apartments, LLC","814-816 Hennepin Ave, Minneapolis, MN 55403","$799 - 1,200",Studio,https://www.apartments.com/red-20-apartments-minneapolis-mn/zy7ff7w/
+184,Uptown Lake Apartments,"1212 W Lake St, Minneapolis, MN 55408","$1,366 - 5,276",Studio - 3 Beds,https://www.apartments.com/walkway-minneapolis-mn/tp4m9hb/
+185,Isles East and West,"1101-1125 W 28th St, Minneapolis, MN 55408","$1,195 - 1,325",1-2 Beds,https://www.apartments.com/walkway-minneapolis-mn/tp4m9hb/
+186,Era on Excelsior,"6860 Excelsior Blvd, Minneapolis, MN 55426","$1,035 - 2,225",Studio - 2 Beds,https://www.apartments.com/walkway-minneapolis-mn/tp4m9hb/
+187,The Marshall,"515 14th Ave SE, Minneapolis, MN 55414","$735 - 1,330",1-4 Beds,https://www.apartments.com/walkway-minneapolis-mn/tp4m9hb/
+188,Woodhaven,"6045 Lyndale Ave, Minneapolis, MN 55419","$970 - 1,870",Studio - 2 Beds,https://www.apartments.com/the-archive-minneapolis-mn/8z05mr1/
+189,Fourth Street Cooperative,"1227 4th St SE, Minneapolis, MN 55414","$749 - 2,699",1-3 Beds,https://www.apartments.com/the-archive-minneapolis-mn/8z05mr1/
+190,The Bryn,"2823 Wayzata Blvd, Minneapolis, MN 55405","$1,025 - 1,250",Studio - 1 Bed,https://www.apartments.com/the-archive-minneapolis-mn/8z05mr1/
+191,Alden Apartments,"1205 Hawthorne Ave, Minneapolis, MN 55403",$925,Studio - 1 Bed,https://www.apartments.com/the-archive-minneapolis-mn/8z05mr1/
+192,Brentwood Apartments,"117-127 W Grant St, Minneapolis, MN 55403",$845 - 945,Studio - 1 Bed,https://www.apartments.com/ox-op-apartments-minneapolis-mn/ggdyrcx/
+193,Bridgewater Crossings,"2101-2020 21st Ave S, Minneapolis, MN 55404",$700 - 925,Studio - 1 Bed,https://www.apartments.com/ox-op-apartments-minneapolis-mn/ggdyrcx/
+194,MoDI Apartments | Studios & 1-Bedrooms!,"2015 Lyndale Ave, Minneapolis, MN 55405","$1,085 - 1,580",Studio - 2 Beds,https://www.apartments.com/ox-op-apartments-minneapolis-mn/ggdyrcx/
+195,The Buckingham / The Commodore / The Parkw...,"1500 LaSalle Ave, Minneapolis, MN 55403","$702 - 1,564",Studio - 2 Beds,https://www.apartments.com/ox-op-apartments-minneapolis-mn/ggdyrcx/
+196,Windsor Gates,"6200 78th Ave N, Minneapolis, MN 55443","$910 - 1,410",1-2 Beds,https://www.apartments.com/the-station-at-malcolm-yards-minneapolis-mn/krwsxxb/
+197,One Southdale Place,"6800 York Ave S, Edina, MN 55435","$1,595 - 3,600",Studio - 3 Beds,https://www.apartments.com/the-station-at-malcolm-yards-minneapolis-mn/krwsxxb/
+198,Parkway 25,"4015 Highway 25, Saint Louis Park, MN 55416","$1,730 - 1,750",1-2 Beds,https://www.apartments.com/the-station-at-malcolm-yards-minneapolis-mn/krwsxxb/
+199,Ellipse on Excelsior and E2,"3920 Excelsior Blvd, Saint Louis Park, MN 55416","$1,640 - 2,720",Studio - 2 Beds,https://www.apartments.com/the-station-at-malcolm-yards-minneapolis-mn/krwsxxb/
+200,The Flats at West End,"5310 W 16th St, Saint Louis Park, MN 55416","$1,545 - 2,825",Studio - 2 Beds,https://www.apartments.com/one-ten-grant-minneapolis-mn/gkmpsdw/
+201,The Edge of Uptown,"3025 Ottawa Ave S, Saint Louis Park, MN 55416","$1,250 - 1,630",Studio - 2 Beds,https://www.apartments.com/one-ten-grant-minneapolis-mn/gkmpsdw/
+202,Highland Village Apartments,"845 Cleveland Ave S, Saint Paul, MN 55116","$1,149 - 1,675",1-2 Beds,https://www.apartments.com/one-ten-grant-minneapolis-mn/gkmpsdw/
+203,808 Berry Place,"808 Berry St, Saint Paul, MN 55114","$1,261 - 4,740",Studio - 3 Beds,https://www.apartments.com/the-elysian-minneapolis-mn/cyqmn3e/
+204,2700 University,"2700 University Ave W, Saint Paul, MN 55114","$1,300 - 2,881",Studio - 2 Beds,https://www.apartments.com/the-elysian-minneapolis-mn/cyqmn3e/
+205,Park Glen,"4501 Park Glen Rd, Saint Louis Park, MN 55416","$1,210 - 2,130",Studio - 2 Beds,https://www.apartments.com/the-elysian-minneapolis-mn/cyqmn3e/
+206,The Lucy Apartments | St. Paul,"2069 Marshall Ave, Saint Paul, MN 55104","$1,540 - 1,995",1-2 Beds,https://www.apartments.com/the-nic-on-fifth-minneapolis-mn/2sw9j29/
+207,Beach South at the Lake,"4199 46th Ave N, Robbinsdale, MN 55422","$1,120 - 3,120",Studio - 4 Beds,https://www.apartments.com/the-nic-on-fifth-minneapolis-mn/2sw9j29/
+208,Parkway Place,"4040 W 31st St, St Louis Park, MN 55416","$1,399",1-2 Beds,https://www.apartments.com/the-nic-on-fifth-minneapolis-mn/2sw9j29/
+209,Rya at RF64,"6400 Richfield Pky, Richfield, MN 55423","$1,275 - 2,445",Studio - 3 Beds,https://www.apartments.com/the-nic-on-fifth-minneapolis-mn/2sw9j29/
+210,Lyndale Plaza Apartments,"6401 Lyndale Ave S, Richfield, MN 55423","$1,700 - 2,200",2-3 Beds,https://www.apartments.com/the-bohen-minneapolis-mn/zp57wez/
+211,The Chamberlain Apartments,"6630 Richfield Pky, Richfield, MN 55423","$1,130 - 2,465",Studio - 3 Beds,https://www.apartments.com/the-bohen-minneapolis-mn/zp57wez/
+212,Park Trails Apartments,"4531 W 36 1/2 St, Saint Louis Park, MN 55416","$1,019 - 1,449",Studio - 2 Beds,https://www.apartments.com/the-bohen-minneapolis-mn/zp57wez/
+213,Sonder House,"5801 N Xerxes Ave, Brooklyn Center, MN 55430","$1,242 - 1,717",1-3 Beds,https://www.apartments.com/the-bohen-minneapolis-mn/zp57wez/
+214,3701 W Lake St,"Minneapolis, MN 55416","$1,120 - 1,150",1 Bed,https://www.apartments.com/tree-tops-minneapolis-mn/eyrc4nm/
+215,Student | HERE Minneapolis,"2813 4th St SE, Minneapolis, MN 55414","$1,279 - 2,409",Studio - 2 Beds,https://www.apartments.com/tree-tops-minneapolis-mn/eyrc4nm/
+216,Huck Apartments,"402 2nd St NE, Minneapolis, MN 55413","$1,195 - 2,095",Studio - 2 Beds,https://www.apartments.com/tree-tops-minneapolis-mn/eyrc4nm/
+217,2901 James,"2901-2905 James Ave S, Minneapolis, MN 55408",Call for Rent,2 Beds,https://www.apartments.com/tree-tops-minneapolis-mn/eyrc4nm/
+218,Sawyer Apartments,"338 2nd St NE, Minneapolis, MN 55413","$1,405 - 2,545",Studio - 2 Beds,https://www.apartments.com/vesi-minneapolis-mn/y3gy3ds/
+219,The Shores,"3101 E Bde Maka Ska Pky, Minneapolis, MN 55408","$2,045 - 2,145",2 Beds,https://www.apartments.com/vesi-minneapolis-mn/y3gy3ds/
+220,The Endurance,"725 8th St SE, Minneapolis, MN 55414","$1,190 - 1,295",Studio - 1 Bed,https://www.apartments.com/vesi-minneapolis-mn/y3gy3ds/
+221,The Julia,"80 Broadway St NE, Minneapolis, MN 55413","$1,250 - 2,850",Studio - 2 Beds,https://www.apartments.com/vesi-minneapolis-mn/y3gy3ds/
+222,Alexander Apartments,"3224-3236 Girard Ave, Minneapolis, MN 55408","$1,125 - 2,175",Studio - 2 Beds,https://www.apartments.com/parkway-commons-minneapolis-mn/ftkgdmt/
+223,Parkway West Apartments,"4556 S 46th Ave, Minneapolis, MN 55406","$1,445",1-2 Beds,https://www.apartments.com/parkway-commons-minneapolis-mn/ftkgdmt/
+224,Frances,"1018-1024 NE Main St, Minneapolis, MN 55413","$1,195 - 2,995",Studio - 3 Beds,https://www.apartments.com/parkway-commons-minneapolis-mn/ftkgdmt/
+225,1207 W. 25th St.,"1207 W 25th St, Minneapolis, MN 55405",Call for Rent,1 Bed,https://www.apartments.com/freightyard-townhomes-and-flats-minneapolis-mn/rjgvl52/
+226,Mission Lofts,"1219 W 31st St, Minneapolis, MN 55408","$1,245 - 2,495",Studio - 1 Bed,https://www.apartments.com/freightyard-townhomes-and-flats-minneapolis-mn/rjgvl52/
+227,Dover Apartments,"515-527 5th Ave SE, Minneapolis, MN 55414","$1,495 - 2,300",2-3 Beds,https://www.apartments.com/freightyard-townhomes-and-flats-minneapolis-mn/rjgvl52/
+228,Flats at Malcolm Yards,"445 SE Malcolm Ave, Minneapolis, MN 55414",Call for Rent,Studio,https://www.apartments.com/freightyard-townhomes-and-flats-minneapolis-mn/rjgvl52/
+229,Verso,"110 6th Ave NE, Minneapolis, MN 55413","$1,181 - 2,980",Studio - 2 Beds,https://www.apartments.com/hencen-minneapolis-mn/99e3nl5/
+230,Volo at Texa Tonka,"7920 Minnetonka blvd, Minneapolis, MN 55426","$1,554 - 3,340",1-2 Beds,https://www.apartments.com/hencen-minneapolis-mn/99e3nl5/
+231,1101 on Main Apartment Homes,"1101 Main St NE, Minneapolis, MN 55413","$1,545 - 2,100",1-2 Beds,https://www.apartments.com/hencen-minneapolis-mn/99e3nl5/
+232,Lumos Apartments,"2826 Girard Ave S, Minneapolis, MN 55408","$1,045 - 1,675",Studio - 2 Beds,https://www.apartments.com/hencen-minneapolis-mn/99e3nl5/
+233,Minnehaha 94,"1901 Minnehaha Ave, Minneapolis, MN 55404","$1,029 - 2,089",1-3 Beds,https://www.apartments.com/the-abbott-minneapolis-mn/nvefh4m/
+234,Overland Apartments,"2325 E 38th St E, Minneapolis, MN 55406","$945 - 1,475",Studio - 2 Beds,https://www.apartments.com/the-abbott-minneapolis-mn/nvefh4m/
+235,Blaisdell Apartments,"2200 S Blaisdell Ave, Minneapolis, MN 55404",Call for Rent,Studio - 2 Beds,https://www.apartments.com/the-abbott-minneapolis-mn/nvefh4m/
+236,225 Place Apartments,"225 W 15th St, Minneapolis, MN 55403",$799 - 929,Studio,https://www.apartments.com/avid-minneapolis-mn/zzj68pw/
+237,Odie Apartments,"607 W 28th St, Minneapolis, MN 55408","$1,075 - 2,295",Studio - 2 Beds,https://www.apartments.com/avid-minneapolis-mn/zzj68pw/
+238,Nox Apartments,"2703 Girard Ave S, Minneapolis, MN 55408","$1,275 - 1,375",Studio - 2 Beds,https://www.apartments.com/avid-minneapolis-mn/zzj68pw/
+239,Wakpada Apartments,"4603 Minnehaha Ave, Minneapolis, MN 55406","$1,175 - 1,545",Studio - 2 Beds,https://www.apartments.com/avid-minneapolis-mn/zzj68pw/
+240,Miramar Apartments,"2309 Lyndale Ave S, Minneapolis, MN 55405","$2,250",2 Beds,https://www.apartments.com/the-murals-of-lynlake-minneapolis-mn/hzbkz71/
+241,Marbella on Dean,"3036 W Lake St, Minneapolis, MN 55416","$1,175 - 2,058",Studio - 2 Beds,https://www.apartments.com/the-murals-of-lynlake-minneapolis-mn/hzbkz71/
+242,The Palmer,"600 N 5th St, Minneapolis, MN 55401","$1,360 - 3,100",1-2 Beds,https://www.apartments.com/the-murals-of-lynlake-minneapolis-mn/hzbkz71/
+243,4730 - 4750 Central Ave NE,"4730 Central Ave NE, Minneapolis, MN 55421","$1,100 - 1,299",1-2 Beds,https://www.apartments.com/the-murals-of-lynlake-minneapolis-mn/hzbkz71/
+244,Rex4plex,"2625 Lyndale Ave S, Minneapolis, MN 55408","$1,099 - 2,534",1-2 Beds,https://www.apartments.com/cortland-mill-district-minneapolis-mn/33ksq2f/
+245,Southsider,"3029 22nd Ave, Minneapolis, MN 55407","$1,124 - 1,790",Studio - 2 Beds,https://www.apartments.com/cortland-mill-district-minneapolis-mn/33ksq2f/
+246,"Park & Franklin Lofts! Studio, 1,2 & 3-Bed...","1935 Park Ave, Minneapolis, MN 55404","$905 - 1,690",Studio - 3 Beds,https://www.apartments.com/cortland-mill-district-minneapolis-mn/33ksq2f/
+247,East Bank Village Apartments | NEWLY RENOV...,"22 University Ave, Minneapolis, MN 55413","$1,530 - 2,010",1-3 Beds,https://www.apartments.com/sela-campus-university-apartments-minneapolis-mn/8vk6w51/
+248,29 Bryant Apartments,"2934 Bryant Ave S, Minneapolis, MN 55408","$945 - 1,645",Studio - 2 Beds,https://www.apartments.com/sela-campus-university-apartments-minneapolis-mn/8vk6w51/
+249,Diamond Pointe Apartments,"6106-6116 Lyndale Ave S, Minneapolis, MN 55419","$850 - 1,400",1-2 Beds,https://www.apartments.com/sela-campus-university-apartments-minneapolis-mn/8vk6w51/
+250,MN46 Apartments,"4555 Minnehaha Ave, Minneapolis, MN 55406","$1,305 - 1,350",Studio - 2 Beds,https://www.apartments.com/sela-campus-university-apartments-minneapolis-mn/8vk6w51/
+251,Stadium Village Apartments,"1015 Essex St SE, Minneapolis, MN 55414","$835 - 1,450",Studio - 2 Beds,https://www.apartments.com/marquette-place-minneapolis-mn/9tyd9v4/
+252,The Gables,"1200 W Franklin Ave, Minneapolis, MN 55405",Call for Rent,1-2 Beds,https://www.apartments.com/marquette-place-minneapolis-mn/9tyd9v4/
+253,Sheridan Place,"1441 Marshall St NE, Minneapolis, MN 55413","$950 - 1,900",1 Bed,https://www.apartments.com/marquette-place-minneapolis-mn/9tyd9v4/
+254,Riverview Apartments,"8221 Riverview Ln, Minneapolis, MN 55444","$955 - 1,455",1-2 Beds,https://www.apartments.com/222-hennepin-minneapolis-mn/l0x57td/
+255,Stonehouse Square,"215 Broadway St NE, Minneapolis, MN 55413","$1,063 - 1,381",Studio - 2 Beds,https://www.apartments.com/222-hennepin-minneapolis-mn/l0x57td/
+256,1524 Lasalle,"1524 Lasalle Ave, Minneapolis, MN 55403",Call for Rent,1 Bed,https://www.apartments.com/222-hennepin-minneapolis-mn/l0x57td/
+257,Westwood Apartments,"3720 W 32nd St, Minneapolis, MN 55416","$995 - 1,095",Studio - 1 Bed,https://www.apartments.com/222-hennepin-minneapolis-mn/l0x57td/
+258,University Village,"2515 University Ave SE, Minneapolis, MN 55414","$519 - 2,030",1-4 Beds,https://www.apartments.com/variant-minneapolis-mn/qxyqm8z/
+259,Loring Grove Apartments,"125 Oak Grove St, Minneapolis, MN 55403","$1,100",1 Bed,https://www.apartments.com/variant-minneapolis-mn/qxyqm8z/
+260,Colfax Manor,"3401 Colfax Ave S, Minneapolis, MN 55408",$745 - 996,Studio - 1 Bed,https://www.apartments.com/variant-minneapolis-mn/qxyqm8z/
+261,Oak Grove Downtown Apartments,"116 Oak Grove St, Minneapolis, MN 55403",$850 - 925,Studio - 2 Beds,https://www.apartments.com/variant-minneapolis-mn/qxyqm8z/
+262,215 Oak Grove,"215 Oak Grove St, Minneapolis, MN 55403","$974 - 1,639",1-2 Beds,https://www.apartments.com/good-dwelling-minneapolis-mn/wtm638k/
+263,Glendale Flats,"711 Glendale St, Saint Paul, MN 55114","$1,295 - 1,495",Studio - 1 Bed,https://www.apartments.com/good-dwelling-minneapolis-mn/wtm638k/
+264,4800 Excelsior,"4800 Excelsior Blvd, Saint Louis Park, MN 55416","$1,575 - 2,670",Studio - 2 Beds,https://www.apartments.com/good-dwelling-minneapolis-mn/wtm638k/
+265,The Westfield,"4415 Valley View Rd, Edina, MN 55424","$1,899 - 2,595",1-2 Beds,https://www.apartments.com/laurel-village-minneapolis-mn/mbrx6dk/
+266,Park Towers,"4820 Highway 7, Saint Louis Park, MN 55416","$1,340 - 2,175",Studio - 3 Beds,https://www.apartments.com/laurel-village-minneapolis-mn/mbrx6dk/
+267,The Mason,"2424 Territorial Rd, Saint Paul, MN 55114","$1,360 - 3,650",Studio - 3 Beds,https://www.apartments.com/laurel-village-minneapolis-mn/mbrx6dk/
+268,The Edina Towers,"6400 Barrie Rd, Edina, MN 55435","$1,390 - 3,180",1-3 Beds,https://www.apartments.com/laurel-village-minneapolis-mn/mbrx6dk/
+269,3925-4001 31st St W,"Saint Louis Park, MN 55416","$990 - 1,036",1 Bed,https://www.apartments.com/seven-corners-minneapolis-mn/b3t48wb/
+270,Welcome to Windsor Court Robbinsdale: Wher...,"3737 Hubbard Ave N, Robbinsdale, MN 55422","$1,299",1-3 Beds,https://www.apartments.com/seven-corners-minneapolis-mn/b3t48wb/
+271,Hampden Square Apartments,"2333 Long Ave, Saint Paul, MN 55114","$1,029 - 1,239",1-2 Beds,https://www.apartments.com/seven-corners-minneapolis-mn/b3t48wb/
+272,Greenway Village Apartments,"1570 Eustis St, Lauderdale, MN 55108","$999 - 2,500",Studio - 3 Beds,https://www.apartments.com/seven-corners-minneapolis-mn/b3t48wb/
+273,Rose Hill,"1631 Carl St, Lauderdale, MN 55108","$925 - 1,295",1-2 Beds,https://www.apartments.com/the-miles-uptown-minneapolis-mn/rjm2f72/
+274,"Age 50 and above, Sonder Point Apartments","5803 Xerxes Ave, Brooklyn Center, MN 55430","$1,242 - 1,389",1-2 Beds,https://www.apartments.com/the-miles-uptown-minneapolis-mn/rjm2f72/
+275,The Portage,"3146 Calhoun Blvd W, Minneapolis, MN 55416","$1,180 - 1,241",Studio - 1 Bed,https://www.apartments.com/the-miles-uptown-minneapolis-mn/rjm2f72/
+276,525 Tenth Dinkytown Apartments Student Rental,"525 10th Ave SE, Minneapolis, MN 55414","$1,250 - 3,200",1-5 Beds,https://www.apartments.com/the-miles-uptown-minneapolis-mn/rjm2f72/
+277,Kenwood Gables,"700 Douglas Ave, Minneapolis, MN 55403","$1,425 - 2,080",1-2 Beds,https://www.apartments.com/the-paxon-minneapolis-mn/tdjqcn9/
+278,The Knoll,"1101 University Ave SE, Minneapolis, MN 55414","$1,380",Studio,https://www.apartments.com/the-paxon-minneapolis-mn/tdjqcn9/
+279,700 Central Historic Lofts & New Flats,"700 NE Central Ave, Minneapolis, MN 55414","$1,365 - 2,735",Studio - 2 Beds,https://www.apartments.com/the-paxon-minneapolis-mn/tdjqcn9/
+280,Marie Antoinette,"26 W 22nd St, Minneapolis, MN 55404",$940 - 970,1 Bed,https://www.apartments.com/the-paxon-minneapolis-mn/tdjqcn9/
+281,Ridgewood Arches,"221-229 Ridgewood Ave, Minneapolis, MN 55403","$1,010 - 1,405",1 Bed,https://www.apartments.com/five15-on-the-park-minneapolis-mn/ger55by/
+282,3700-3708 Lyndale Ave S,"Minneapolis, MN 55409","$1,125 - 1,175",1 Bed,https://www.apartments.com/five15-on-the-park-minneapolis-mn/ger55by/
+283,Colfax Terrace,"3433-3435 Colfax Ave S, Minneapolis, MN 55408","$1,095",1 Bed,https://www.apartments.com/five15-on-the-park-minneapolis-mn/ger55by/
+284,Mezzo,"1331 Marshall St NE, Minneapolis, MN 55413","$1,335 - 2,390",Studio - 2 Beds,https://www.apartments.com/zeo-minneapolis-mn/27x6qv8/
+285,Blaise Apartments,"2645 1st Ave, Minneapolis, MN 55408","$1,075 - 1,095",Studio,https://www.apartments.com/zeo-minneapolis-mn/27x6qv8/
+286,Thornton Place Apartments,"810 SE Thornton St, Minneapolis, MN 55414","$1,400 - 1,425",1-2 Beds,https://www.apartments.com/zeo-minneapolis-mn/27x6qv8/
+287,7west,"1800 Washington Ave S, Minneapolis, MN 55454","$1,435 - 2,465",Studio - 2 Beds,https://www.apartments.com/zeo-minneapolis-mn/27x6qv8/
+288,The Fremont,"2825 Fremont Ave S, Minneapolis, MN 55408","$985 - 1,575",Studio - 2 Beds,https://www.apartments.com/humboldt-terrace-minneapolis-mn/dqs4qlk/
+289,Archer,"401 University Ave SE, Minneapolis, MN 55414","$1,250 - 1,400",Studio - 1 Bed,https://www.apartments.com/humboldt-terrace-minneapolis-mn/dqs4qlk/
+290,The Original at West Lake Quarter,"3430 List Plz, Minneapolis, MN 55416","$1,820 - 3,960",Studio - 3 Beds,https://www.apartments.com/humboldt-terrace-minneapolis-mn/dqs4qlk/
+291,430 Oak Grove,"430 Oak Grove St, Minneapolis, MN 55403","$1,275 - 2,645",1-2 Beds,https://www.apartments.com/humboldt-terrace-minneapolis-mn/dqs4qlk/
+292,The Bessemer at Seward Commons,"2220 Snelling Ave, Minneapolis, MN 55404","$1,105 - 2,105",Studio - 2 Beds,https://www.apartments.com/junction-flats-minneapolis-mn/20fh2tc/
+293,Oaks Hiawatha Station,"4540 Snelling Ave, Minneapolis, MN 55406","$997 - 1,982",Studio - 2 Beds,https://www.apartments.com/junction-flats-minneapolis-mn/20fh2tc/
+294,Central Flats,"3251 Central Ave NE, Minneapolis, MN 55418","$1,185",1 Bed,https://www.apartments.com/junction-flats-minneapolis-mn/20fh2tc/
+295,Oaks Station Place,"3550 E 46th St, Minneapolis, MN 55406","$1,165 - 1,865",Studio - 2 Beds,https://www.apartments.com/junction-flats-minneapolis-mn/20fh2tc/
+296,2100 Aldrich,"2100 Aldrich Ave S, Minneapolis, MN 55405","$1,045 - 1,425",1-2 Beds,https://www.apartments.com/the-shale-minneapolis-mn/nln78nm/
+297,MPA / Marcy Park Apartments,"1015 8th St, Minneapolis, MN 55414","$1,225 - 2,650",1-4 Beds,https://www.apartments.com/the-shale-minneapolis-mn/nln78nm/
+298,Lowry Hill Apartments,"1770 Hennepin Ave, Minneapolis, MN 55403","$795 - 1,295",Studio - 1 Bed,https://www.apartments.com/the-shale-minneapolis-mn/nln78nm/
+299,Karinsplass Apartments,"2015 Riverside Ave, Minneapolis, MN 55454","$1,260 - 1,420",1-2 Beds,https://www.apartments.com/the-shale-minneapolis-mn/nln78nm/
+300,Motiv Apartments,"1006 W 24th St, Minneapolis, MN 55405","$1,245 - 1,795",1-2 Beds,https://www.apartments.com/elan-uptown-minneapolis-mn/8yxyz92/
+301,Second Street Lofts,"129 N 2nd St, Minneapolis, MN 55401","$1,620 - 2,535",1-2 Beds,https://www.apartments.com/elan-uptown-minneapolis-mn/8yxyz92/
+302,Mill City Apartments,"625 2nd St, Minneapolis, MN 55401","$1,280 - 2,025",Studio - 2 Beds,https://www.apartments.com/elan-uptown-minneapolis-mn/8yxyz92/
+303,Allegro,"4440 Beard Ave S, Minneapolis, MN 55410","$1,200 - 1,500",Studio - 2 Beds,https://www.apartments.com/elan-uptown-minneapolis-mn/8yxyz92/
+304,Granite Creek Apartments,"5555 Zealand Ave N, Minneapolis, MN 55428","$980 - 1,200",1-2 Beds,https://www.apartments.com/3828-apartments-minneapolis-mn/keg3ltc/
+305,Minnehaha Apartments,"2923 E 34th St, Minneapolis, MN 55406",$889,Studio,https://www.apartments.com/3828-apartments-minneapolis-mn/keg3ltc/
+306,Dinkytown Apartments,"519 10th Ave SE, Minneapolis, MN 55414","$900 - 1,180",1-2 Beds,https://www.apartments.com/3828-apartments-minneapolis-mn/keg3ltc/
+307,2426 Blaisdell,"2426 Blaisdell Ave, Minneapolis, MN 55404",$795 - 895,Studio - 1 Bed,https://www.apartments.com/3828-apartments-minneapolis-mn/keg3ltc/
+308,Aquila Flats,"8216 W 31st St, Minneapolis, MN 55426","$1,275",2 Beds,https://www.apartments.com/4marq-minneapolis-mn/4dgbv8l/
+309,Station 38 Apartments,"3725 29th Ave S, Minneapolis, MN 55406","$1,125 - 1,965",Studio - 2 Beds,https://www.apartments.com/4marq-minneapolis-mn/4dgbv8l/
+310,FIT,"515 E Grant St, Minneapolis, MN 55404","$1,195 - 1,850",Studio - 2 Beds,https://www.apartments.com/4marq-minneapolis-mn/4dgbv8l/
+311,Hiawatha Haven,"3025 30th Ave S, Minneapolis, MN 55406",$795 - 875,Studio - 1 Bed,https://www.apartments.com/4marq-minneapolis-mn/4dgbv8l/
+312,Riverside Flats,"940 Franklin Ter, Minneapolis, MN 55406","$1,070 - 1,400",1-2 Beds,https://www.apartments.com/the-venue-on-knox-minneapolis-mn/x8wlwtp/
+313,Ridgewood Apartments,"441 Ridgewood Ave, Minneapolis, MN 55403",$795 - 925,Studio - 1 Bed,https://www.apartments.com/the-venue-on-knox-minneapolis-mn/x8wlwtp/
+314,The Copham,"607 N Washington Ave, Minneapolis, MN 55401","$1,793 - 2,465",1-2 Beds,https://www.apartments.com/the-venue-on-knox-minneapolis-mn/x8wlwtp/
+315,Lilium Apartments,"706 9th St S, Minneapolis, MN 55404","$899 - 1,399",Studio - 2 Beds,https://www.apartments.com/the-venue-on-knox-minneapolis-mn/x8wlwtp/
+316,1919 Dupont,"1919 Dupont Ave S, Minneapolis, MN 55403",$860 - 945,Studio - 1 Bed,https://www.apartments.com/aberdeen-apartments-minneapolis-mn/wjvqy5l/
+317,The Denn of Dinkytown,"815 13th Ave SE, Minneapolis, MN 55414","$975 - 1,000",1 Bed,https://www.apartments.com/aberdeen-apartments-minneapolis-mn/wjvqy5l/
+318,Oaks Minnehaha Longfellow,"5329 48th Ave S, Minneapolis, MN 55417","$1,202 - 2,137",Studio - 2 Beds,https://www.apartments.com/aberdeen-apartments-minneapolis-mn/wjvqy5l/
+319,633 Ontario St SE,"Minneapolis, MN 55414","$1,900",3 Beds,https://www.apartments.com/foundry-lake-street-minneapolis-mn/fh79dgs/
+320,Boutique 28,"2817 Girard Ave S, Minneapolis, MN 55408","$1,385 - 3,835",Studio - 3 Beds,https://www.apartments.com/foundry-lake-street-minneapolis-mn/fh79dgs/
+321,Karmel Apartments,"99 E 54th St, Minneapolis, MN 55419","$1,125 - 1,205",1 Bed,https://www.apartments.com/foundry-lake-street-minneapolis-mn/fh79dgs/
+322,621 5th Ave.,"621 5th Ave SE, Minneapolis, MN 55414","$900 - 1,180",1-2 Beds,https://www.apartments.com/foundry-lake-street-minneapolis-mn/fh79dgs/
+323,The Arrow Apartments - Student Housing,"117 27th Ave SE, Minneapolis, MN 55414","$739 - 1,339",1-4 Beds,https://www.apartments.com/the-asher-minneapolis-mn/tb5zpjb/
+324,SECOND AND SECOND,"120 2nd St N, Minneapolis, MN 55401","$1,735 - 3,682",1-2 Beds,https://www.apartments.com/the-asher-minneapolis-mn/tb5zpjb/
+325,The Whit,"2201 Blaisdell Ave, Minneapolis, MN 55404","$990 - 2,785",Studio - 2 Beds,https://www.apartments.com/the-asher-minneapolis-mn/tb5zpjb/
+326,Saint Anthony Village - 3725 Stinson,"3725 Stinson Blvd, Minneapolis, MN 55421","$1,195 - 1,975",1-2 Beds,https://www.apartments.com/the-asher-minneapolis-mn/tb5zpjb/
+327,Oliver & Wendell Apartments,"600 University Ave SE, Minneapolis, MN 55414","$1,295 - 1,615",1-3 Beds,https://www.apartments.com/lago-apartments-minneapolis-mn/1fls1t4/
+328,Tudor Terrace,"3014 31st Ave S, Minneapolis, MN 55406","$825 - 1,025",1 Bed,https://www.apartments.com/lago-apartments-minneapolis-mn/1fls1t4/
+329,Prospect Park Apartments,"3109 4th St SE, Minneapolis, MN 55414",$850 - 950,Studio - 1 Bed,https://www.apartments.com/lago-apartments-minneapolis-mn/1fls1t4/
+330,The Marshall Street Apartments NE,"1011 Marshall St NE, Minneapolis, MN 55413","$1,195 - 1,450",1-2 Beds,https://www.apartments.com/lago-apartments-minneapolis-mn/1fls1t4/
+331,First Place Apartments,"2312 1st Ave S, Minneapolis, MN 55404","$1,125 - 1,235",2 Beds,https://www.apartments.com/the-beach-club-residences-minneapolis-mn/2yv08tc/
+332,The Maker,"1428 Marshall St NE, Minneapolis, MN 55413","$2,950",3 Beds,https://www.apartments.com/the-beach-club-residences-minneapolis-mn/2yv08tc/
+333,Third North Apartments,"800 N 3rd St, Minneapolis, MN 55401","$1,395 - 2,285",Studio - 2 Beds,https://www.apartments.com/the-beach-club-residences-minneapolis-mn/2yv08tc/
+334,Creek Terrace Apartments,"616 W 53rd St, Minneapolis, MN 55419","$950 - 1,025",1-2 Beds,https://www.apartments.com/the-beach-club-residences-minneapolis-mn/2yv08tc/
+335,Revel,"1300 W Lake St, Minneapolis, MN 55408","$1,355 - 2,995",1-2 Beds,https://www.apartments.com/sora-minneapolis-mn/vjhlntd/
+336,MILLENNIUM AT WEST END,"5245 Wayzata Blvd, Minneapolis, MN 55416","$1,373 - 3,119",Studio - 3 Beds,https://www.apartments.com/sora-minneapolis-mn/vjhlntd/
+337,1907 &amp; 1917 Colfax,"1917 Colfax Ave S, Minneapolis, MN 55403",$895,Studio - 2 Beds,https://www.apartments.com/sora-minneapolis-mn/vjhlntd/
+338,St. George Apartments,"137 E 17th St, Minneapolis, MN 55403",$885,Studio - 1 Bed,https://www.apartments.com/sora-minneapolis-mn/vjhlntd/
+339,3441 Bryant Ave S,"Minneapolis, MN 55408",$930 - 980,1 Bed,https://www.apartments.com/dock-street-flats-minneapolis-mn/8nm1vc1/
+340,The Villa,"1111 S 7th St, Minneapolis, MN 55415",$800 - 825,Studio,https://www.apartments.com/dock-street-flats-minneapolis-mn/8nm1vc1/
+341,Lowry Row Homes,"2407 2nd St NE, Minneapolis, MN 55418","$2,375",2-3 Beds,https://www.apartments.com/dock-street-flats-minneapolis-mn/8nm1vc1/
+342,Como Court,"1005 15th Ave SE, Minneapolis, MN 55414","$999 - 1,399",Studio - 2 Beds,https://www.apartments.com/dock-street-flats-minneapolis-mn/8nm1vc1/
+343,Doyle Apartments,"1307 4th St SE, Minneapolis, MN 55414","$650 - 3,500",1-4 Beds,https://www.apartments.com/flux-apartments-minneapolis-mn/ysbhm2v/
+344,The Remington Campus Apartments,"708 5th St Se, Minneapolis, MN 55414","$745 - 1,200",Studio - 2 Beds,https://www.apartments.com/flux-apartments-minneapolis-mn/ysbhm2v/
+345,Quarry Place,"1830 Hayes St NE, Minneapolis, MN 55418","$1,025 - 1,070",1 Bed,https://www.apartments.com/flux-apartments-minneapolis-mn/ysbhm2v/
+346,St. Anthony Village,"320 7th St SE, Minneapolis, MN 55414","$800 - 1,240",Studio - 2 Beds,https://www.apartments.com/flux-apartments-minneapolis-mn/ysbhm2v/
+347,Granite Peaks,"3907-3911 65th Ave N, Minneapolis, MN 55429","$919 - 1,289",Studio - 2 Beds,https://www.apartments.com/3848-west-broadway-minneapolis-mn/xmzrhpm/
+348,Studios at 7 Corners,"1414 S 3rd St, Minneapolis, MN 55454",$985,Studio - 2 Beds,https://www.apartments.com/3848-west-broadway-minneapolis-mn/xmzrhpm/
+349,The Birchway Apartments,"5716-5720 Winnetka Ave N, Minneapolis, MN 55428","$1,135 - 1,815",1-3 Beds,https://www.apartments.com/3848-west-broadway-minneapolis-mn/xmzrhpm/
+350,2920 Dean Parkway,"2920 Dean Pky, Minneapolis, MN 55416","$1,065 - 1,650",Studio - 2 Beds,https://www.apartments.com/3848-west-broadway-minneapolis-mn/xmzrhpm/
+351,The Brownstones,"800 4th St SE, Minneapolis, MN 55414","$599 - 2,995",1-5 Beds,https://www.apartments.com/pure-lowry-minneapolis-mn/x1ebh0p/
+352,The Bridges,"930 University Ave SE, Minneapolis, MN 55414","$615 - 1,630",Studio - 2 Beds,https://www.apartments.com/pure-lowry-minneapolis-mn/x1ebh0p/
+353,2300 Aldrich,"2300 Aldrich Ave S, Minneapolis, MN 55405","$795 - 1,295",Studio - 2 Beds,https://www.apartments.com/pure-lowry-minneapolis-mn/x1ebh0p/
+354,The Rose,"1928 Portland Ave, Minneapolis, MN 55404","$1,195 - 1,800",1-2 Beds,https://www.apartments.com/pure-lowry-minneapolis-mn/x1ebh0p/
+355,Lake West on France,"3028 Ewing Ave S, Minneapolis, MN 55416","$1,095 - 1,425",1-2 Beds,https://www.apartments.com/luna-minneapolis-mn/4kmtryh/
+356,Broadway Flats,"2505 Penn Ave N, Minneapolis, MN 55411","$1,049 - 1,291",Studio - 2 Beds,https://www.apartments.com/luna-minneapolis-mn/4kmtryh/
+357,Hub Minneapolis,"311 Harvard St SE, Minneapolis, MN 55414","$670 - 1,935",Studio - 4 Beds,https://www.apartments.com/luna-minneapolis-mn/4kmtryh/
+358,Gateway Northeast,"20 Lowry Ave NE, Minneapolis, MN 55418","$1,225 - 1,825",Studio - 2 Beds,https://www.apartments.com/luna-minneapolis-mn/4kmtryh/
+359,City Place Lofts,"730 Hennepin Ave, Minneapolis, MN 55403","$933 - 1,242",Studio - 2 Beds,https://www.apartments.com/b-side-apartments-minneapolis-mn/96fshx5/
+360,Uptown Plaza,"2300 Pleasant Ave, Minneapolis, MN 55404","$875 - 1,245",Studio - 2 Beds,https://www.apartments.com/b-side-apartments-minneapolis-mn/96fshx5/
+361,The Chalet,"3023 Lyndale Ave, Minneapolis, MN 55408",$675 - 685,1 Bed,https://www.apartments.com/b-side-apartments-minneapolis-mn/96fshx5/
+362,Spruce Place Apartments,"1365 Spruce Pl, Minneapolis, MN 55403",$675 - 950,Studio - 1 Bed,https://www.apartments.com/b-side-apartments-minneapolis-mn/96fshx5/
+363,3220 Girard,"3220 Girard Ave S, Minneapolis, MN 55408",$845 - 895,Studio - 2 Beds,https://www.apartments.com/rex26-minneapolis-mn/0ekbjl2/
+364,Bossen Park Apartments,"5717 31st Ave S, Minneapolis, MN 55417",$850 - 900,1 Bed,https://www.apartments.com/rex26-minneapolis-mn/0ekbjl2/
+365,2321 Aldrich,"2321 Aldrich Ave S, Minneapolis, MN 55405","$975 - 1,210",1-2 Beds,https://www.apartments.com/rex26-minneapolis-mn/0ekbjl2/
+366,Stone Arch I,"601-701 Main St SE, Minneapolis, MN 55414","$1,048 - 1,758",Studio - 2 Beds,https://www.apartments.com/rex26-minneapolis-mn/0ekbjl2/
+367,Mill City Quarter,"300 S 2nd St, Minneapolis, MN 55401","$1,282 - 1,546",1-2 Beds,https://www.apartments.com/the-lily-pad-minneapolis-mn/fzbc3pr/
+368,Colony Apartment Homes,"1740 1/2 W 76th St, Minneapolis, MN 55423","$1,165 - 1,449",1-2 Beds,https://www.apartments.com/the-lily-pad-minneapolis-mn/fzbc3pr/
+369,2876 Humboldt Ave S,"Minneapolis, MN 55408","$785 - 1,300",Studio - 2 Beds,https://www.apartments.com/the-lily-pad-minneapolis-mn/fzbc3pr/
+370,Haverhill Apartments,"32-34 Spruce Pl, Minneapolis, MN 55403","$915 - 1,170",Studio - 1 Bed,https://www.apartments.com/chroma-minneapolis-mn/89pj5m1/
+371,Copenhagen Enterprises,"26 Oak Grove St, Minneapolis, MN 55403","$700 - 1,200",Studio - 2 Beds,https://www.apartments.com/chroma-minneapolis-mn/89pj5m1/
+372,Autumn Ridge Apartments,"8500-8516 63rd Ave N, Minneapolis, MN 55428","$939 - 1,343",1-2 Beds,https://www.apartments.com/chroma-minneapolis-mn/89pj5m1/
+373,Shoreline Plaza,"15 E Grant St, Minneapolis, MN 55403","$653 - 1,325",Studio - 1 Bed,https://www.apartments.com/chroma-minneapolis-mn/89pj5m1/
+374,The Finn,"725 Cleveland Ave S, Saint Paul, MN 55116","$1,450 - 3,695",Studio - 2 Beds,https://www.apartments.com/loring-park-minneapolis-mn/q15y60x/
+375,Villa Capri,"3043 Inglewood Ave S, Saint Louis Park, MN 55416","$1,725",2 Beds,https://www.apartments.com/loring-park-minneapolis-mn/q15y60x/
+376,Aria,"3200 Southdale Cir, Edina, MN 55435","$2,043 - 9,282",Studio - 3 Beds,https://www.apartments.com/loring-park-minneapolis-mn/q15y60x/
+377,The Shoreham Apartments,"3030 France Ave S, Saint Louis Park, MN 55416","$1,488 - 3,944",Studio - 2 Beds,https://www.apartments.com/loring-park-minneapolis-mn/q15y60x/
+378,Cornelia Place,"4025 W 65th St, Edina, MN 55435","$1,595",1-2 Beds,https://www.apartments.com/rivergate-apartments-minneapolis-mn/tm35jd8/
+379,Park Embassy,"4400-4450 Minnetonka Blvd, Saint Louis Park, MN 55416","$1,155 - 1,490",1-2 Beds,https://www.apartments.com/rivergate-apartments-minneapolis-mn/tm35jd8/
+380,Birdtown Flats,"3730 W Broadway Ave, Robbinsdale, MN 55422","$1,330 - 2,365",Studio - 2 Beds,https://www.apartments.com/rivergate-apartments-minneapolis-mn/tm35jd8/
+381,Queen Terrace Apartments,"6444 Queen Ave S, Richfield, MN 55423","$1,050",1 Bed,https://www.apartments.com/rivergate-apartments-minneapolis-mn/tm35jd8/
+382,Joppa Lane,"2888 Joppa Ave S, Saint Louis Park, MN 55416","$1,150 - 1,775",1-2 Beds,https://www.apartments.com/nico-apartments-minneapolis-mn/90srcl7/
+383,The Landings at Silver Lake Village,"2551 38th Ave NE, Saint Anthony, MN 55421","$1,413 - 4,149",Studio - 2 Beds,https://www.apartments.com/nico-apartments-minneapolis-mn/90srcl7/
+384,LIV Apartments,"4505 W 36 1/2 St, Saint Louis Park, MN 55416","$1,025 - 1,450",Studio - 2 Beds,https://www.apartments.com/nico-apartments-minneapolis-mn/90srcl7/
+385,Lauderdale Hollows,"1622 Carl St, Lauderdale, MN 55108","$985 - 1,170",1-2 Beds,https://www.apartments.com/nico-apartments-minneapolis-mn/90srcl7/
+386,Crossroads Apartments,"1634 Eustis St, Lauderdale, MN 55108",$860 - 965,Studio - 1 Bed,https://www.apartments.com/bolero-flats-apartments-minneapolis-mn/4f56rgh/
+387,Mount Curve Apartments,"760 Mt Curve Blvd, Saint Paul, MN 55116","$1,100 - 1,250",2 Beds,https://www.apartments.com/bolero-flats-apartments-minneapolis-mn/4f56rgh/
+388,Southdale Parc,"2720 W 66th St, Richfield, MN 55423","$1,025 - 1,250",1 Bed,https://www.apartments.com/bolero-flats-apartments-minneapolis-mn/4f56rgh/
+389,Diamond Eight Terrace,"3200 Diamond Eight Ter, Saint Anthony, MN 55421","$1,070 - 1,095",1 Bed,https://www.apartments.com/lasalle-apartments-minneapolis-mn/t2e56nc/
+390,Henley Apartments,"6324 S Lyndale Ave, Richfield, MN 55423","$1,150 - 2,150",Studio - 3 Beds,https://www.apartments.com/lasalle-apartments-minneapolis-mn/t2e56nc/
+391,The Pavilion on Berry Apartments,"950 Jefferson Commons Cir, Saint Paul, MN 55114",$709 - 929,2-4 Beds,https://www.apartments.com/lasalle-apartments-minneapolis-mn/t2e56nc/
+392,Highcrest Manor Apartments,"3605 37th Ave NE, Saint Anthony, MN 55421","$975 - 1,250",1-2 Beds,https://www.apartments.com/lasalle-apartments-minneapolis-mn/t2e56nc/
+393,Equinox,"2808 Silver Ln NE, Saint Anthony, MN 55421","$1,364 - 3,069",1-2 Beds,https://www.apartments.com/deco-265-minneapolis-mn/kqlyc2c/
+394,Uptown West Apartments,"3150 Raleigh Ave, Saint Louis Park, MN 55416","$915 - 1,035",Studio - 1 Bed,https://www.apartments.com/deco-265-minneapolis-mn/kqlyc2c/
+395,Gateway Commons,"2850 Northway Dr, Brooklyn Center, MN 55430","$900 - 1,350",Studio - 2 Beds,https://www.apartments.com/deco-265-minneapolis-mn/kqlyc2c/
+396,Brittany Apartments,"3127 S Highway 100, Saint Louis Park, MN 55416","$850 - 1,400",Studio - 2 Beds,https://www.apartments.com/deco-265-minneapolis-mn/kqlyc2c/
+397,2732 Aldrich Ave S,"Minneapolis, MN 55408","$2,545 /mo","4 Beds, 1 Bath",https://www.apartments.com/colfax-villas-i-minneapolis-mn/p63fvcv/
+398,4860 Park Commons Dr Unit 204,"Minneapolis, MN 55416","$1,895",2 Beds,https://www.apartments.com/colfax-villas-i-minneapolis-mn/p63fvcv/
+399,3639 Stinson Blvd,"Minneapolis, MN 55418","$2,180",4 Beds,https://www.apartments.com/colfax-villas-i-minneapolis-mn/p63fvcv/
+400,4745 Minnehaha Ave Unit 103,"Minneapolis, MN 55406","$2,200",2 Beds,https://www.apartments.com/colfax-villas-i-minneapolis-mn/p63fvcv/
+401,1240 S 2nd St Unit 932,"Minneapolis, MN 55415","$4,250",3 Beds,https://www.apartments.com/cedars-94-minneapolis-mn/xvejt3q/
+402,3624 E 38th St Unit D,"Minneapolis, MN 55406","$1,645",2 Beds,https://www.apartments.com/cedars-94-minneapolis-mn/xvejt3q/
+403,2015 Lyndale Ave S Unit 205.990934,"Minneapolis, MN 55405","$1,500",Studio,https://www.apartments.com/cedars-94-minneapolis-mn/xvejt3q/
+404,6009 Xerxes Ave S,"Minneapolis, MN 55410","$1,700",2 Beds,https://www.apartments.com/rosa-apartments-mpls-minneapolis-mn/ksh9vt8/
+405,Apartment for Rent,"2207 1/2 NE Central Ave Minneapolis, MN 55418",,,https://www.apartments.com/rosa-apartments-mpls-minneapolis-mn/ksh9vt8/
+406,Condo for Rent,"7520 Edinborough Way Minneapolis, MN 55435",,,https://www.apartments.com/rosa-apartments-mpls-minneapolis-mn/ksh9vt8/
+407,Apartment for Rent,"3325 Clinton Ave Minneapolis, MN 55408",,,https://www.apartments.com/rosa-apartments-mpls-minneapolis-mn/ksh9vt8/
+408,Apartment for Rent,"225 Portland Ave Minneapolis, MN 55401",,,https://www.apartments.com/yugo-minneapolis-sydney-hall-minneapolis-mn/z5zyhlw/
+409,Condo for Rent,"1820 Girard Ave S Minneapolis, MN 55403",,,https://www.apartments.com/yugo-minneapolis-sydney-hall-minneapolis-mn/z5zyhlw/
+410,Apartment for Rent,"5536 S 28th Ave Minneapolis, MN 55417",,,https://www.apartments.com/yugo-minneapolis-sydney-hall-minneapolis-mn/z5zyhlw/
+411,Condo for Rent,"2040 Ridge Dr Minneapolis, MN 55416",,,https://www.apartments.com/windom-gables-townhomes-minneapolis-mn/wrwrxbl/
+412,Apartment for Rent,"4721 Lyndale Ave S Minneapolis, MN 55419",,,https://www.apartments.com/windom-gables-townhomes-minneapolis-mn/wrwrxbl/
+413,Apartment for Rent,"825 Russell Ave N Minneapolis, MN 55411",,,https://www.apartments.com/windom-gables-townhomes-minneapolis-mn/wrwrxbl/
+414,Apartment for Rent,"5246 S 34th Ave Minneapolis, MN 55417",,,https://www.apartments.com/windom-gables-townhomes-minneapolis-mn/wrwrxbl/
+415,House for Rent,"250 2nd Ave S Minneapolis, MN 55401",,,https://www.apartments.com/stevens-community-apartments-minneapolis-mn/e1t7j5m/
+416,House for Rent,"250 2nd Ave S Minneapolis, MN 55401",,,https://www.apartments.com/stevens-community-apartments-minneapolis-mn/e1t7j5m/
+417,House for Rent,"250 2nd Ave S Minneapolis, MN 55401",,,https://www.apartments.com/stevens-community-apartments-minneapolis-mn/e1t7j5m/
+418,House for Rent,"250 2nd Ave S Minneapolis, MN 55401",,,https://www.apartments.com/stevens-community-apartments-minneapolis-mn/e1t7j5m/
+419,Apartment for Rent,"4230 S 39th Ave Minneapolis, MN 55406",,,https://www.apartments.com/landsby-on-penn-richfield-mn/3c142pd/
+420,House for Rent,"4230 S 39th Ave Minneapolis, MN 55406",,,https://www.apartments.com/landsby-on-penn-richfield-mn/3c142pd/
+421,House for Rent,"4359 Toledo Ave N Minneapolis, MN 55422",,,https://www.apartments.com/landsby-on-penn-richfield-mn/3c142pd/
+422,House for Rent,"1411 N Oliver Ave Minneapolis, MN 55411",,,https://www.apartments.com/landsby-on-penn-richfield-mn/3c142pd/
+423,House for Rent,"2209 E 33rd St Minneapolis, MN 55407",,,https://www.apartments.com/elan-west-end-saint-louis-park-mn/d55rfgl/
+424,Apartment for Rent,"3744 Snelling Ave Minneapolis, MN 55406",,,https://www.apartments.com/elan-west-end-saint-louis-park-mn/d55rfgl/
+425,Condo for Rent,"15 1st St S Minneapolis, MN 55401",,,https://www.apartments.com/elan-west-end-saint-louis-park-mn/d55rfgl/
+426,Apartment for Rent,"2715 30th Ave S Minneapolis, MN 55406",,,https://www.apartments.com/elan-west-end-saint-louis-park-mn/d55rfgl/
+427,Apartment for Rent,"3317 1st Ave S Minneapolis, MN 55408",,,https://www.apartments.com/740-river-drive-saint-paul-mn/2mg0zrb/
+428,House for Rent,"2920 Georgia Ave S Minneapolis, MN 55426",,,https://www.apartments.com/740-river-drive-saint-paul-mn/2mg0zrb/
+429,House for Rent,"6224 Scott Ave N Minneapolis, MN 55429",,,https://www.apartments.com/740-river-drive-saint-paul-mn/2mg0zrb/
+430,House for Rent,"7240 Brooklyn Blvd Minneapolis, MN 55429",,,https://www.apartments.com/ce-flats-saint-paul-mn/snj49s7/
+431,Apartment for Rent,"3925 Cedar Ave S Minneapolis, MN 55407",,,https://www.apartments.com/ce-flats-saint-paul-mn/snj49s7/
+432,House for Rent,"2045 Louisiana Ave S Minneapolis, MN 55426",,,https://www.apartments.com/ce-flats-saint-paul-mn/snj49s7/
+433,House for Rent,"506 113th Ln NW Minneapolis, MN 55448",,,https://www.apartments.com/ce-flats-saint-paul-mn/snj49s7/
+434,Apartment for Rent,"695 24th Ave NE Minneapolis, MN 55418",,,https://www.apartments.com/astor-place-of-edina-edina-mn/816nkw3/
+435,House for Rent,"2215 Cole Ave SE Minneapolis, MN 55414",,,https://www.apartments.com/astor-place-of-edina-edina-mn/816nkw3/
+436,House for Rent,"3339 Dupont Ave N Minneapolis, MN 55412",,,https://www.apartments.com/astor-place-of-edina-edina-mn/816nkw3/
+437,Apartment for Rent,"3625 Aldrich Ave S Minneapolis, MN 55409",,,https://www.apartments.com/astor-place-of-edina-edina-mn/816nkw3/
+438,Apartment for Rent,"3625 Aldrich Ave S Minneapolis, MN 55409",,,https://www.apartments.com/millennium-edina-edina-mn/sw2gnb5/
+439,Apartment for Rent,"755 Fillmore St NE Minneapolis, MN 55413",,,https://www.apartments.com/millennium-edina-edina-mn/sw2gnb5/
+440,Apartment for Rent,"3625 Aldrich Ave S Minneapolis, MN 55409",,,https://www.apartments.com/millennium-edina-edina-mn/sw2gnb5/
+441,House for Rent,"7901 Perry Ave N Minneapolis, MN 55443",,,https://www.apartments.com/millennium-edina-edina-mn/sw2gnb5/
+442,Apartment for Rent,"5737 45th Ave S Minneapolis, MN 55429",,,https://www.apartments.com/midline-apartments-saint-paul-mn/r0t4c93/
+443,House for Rent,"3246 N Morgan Ave Minneapolis, MN 55412",,,https://www.apartments.com/midline-apartments-saint-paul-mn/r0t4c93/
+444,House for Rent,"250 2nd Ave S Minneapolis, MN 55401",,,https://www.apartments.com/midline-apartments-saint-paul-mn/r0t4c93/
+445,Apartment for Rent,"3970 Yosemite Ave S Minneapolis, MN 55416",,,https://www.apartments.com/midline-apartments-saint-paul-mn/r0t4c93/
+446,Apartment for Rent,"4220 33rd Ave S Minneapolis, MN 55406",,,https://www.apartments.com/the-lyric-at-carleton-place-saint-paul-mn/f9e9vbs/
+447,House for Rent,"3424 17th Ave S Minneapolis, MN 55407",,,https://www.apartments.com/the-lyric-at-carleton-place-saint-paul-mn/f9e9vbs/
+448,House for Rent,"2720 N Girard Ave Minneapolis, MN 55411",,,https://www.apartments.com/the-lyric-at-carleton-place-saint-paul-mn/f9e9vbs/
+449,Apartment for Rent,"500 W 28th St Minneapolis, MN 55408",,,https://www.apartments.com/the-lyric-at-carleton-place-saint-paul-mn/f9e9vbs/
+450,House for Rent,"4016 Nevada Ave N Minneapolis, MN 55427",,,https://www.apartments.com/marshall-lofts-saint-paul-mn/6s6rvbr/
+451,House for Rent,"6309 73rd Ave N Minneapolis, MN 55428",,,https://www.apartments.com/marshall-lofts-saint-paul-mn/6s6rvbr/
+452,Apartment for Rent,"4310 3rd St NE Minneapolis, MN 55421",,,https://www.apartments.com/marshall-lofts-saint-paul-mn/6s6rvbr/
+453,Condo for Rent,"820 S 10th St Minneapolis, MN 55404",,,https://www.apartments.com/verge-saint-louis-park-mn/h830m93/
+454,Apartment for Rent,"625 Cleveland Ave S Saint Paul, MN 55116",,,https://www.apartments.com/verge-saint-louis-park-mn/h830m93/
+455,Apartment for Rent,"322 Clifton Ave Minneapolis, MN 55403",,,https://www.apartments.com/verge-saint-louis-park-mn/h830m93/
+456,Apartment for Rent,"2103 Harriet Ave Minneapolis, MN 55405",,,https://www.apartments.com/verge-saint-louis-park-mn/h830m93/
+457,Condo for Rent,"433 S 7th St Minneapolis, MN 55415",,,https://www.apartments.com/ray-saint-paul-mn/pqsfbcs/
+458,Apartment for Rent,"2514 Girard Ave S Minneapolis, MN 55405",,,https://www.apartments.com/ray-saint-paul-mn/pqsfbcs/
+459,Apartment for Rent,"840 W 65th St Minneapolis, MN 55423",,,https://www.apartments.com/ray-saint-paul-mn/pqsfbcs/
+460,Apartment for Rent,"1709 Como Ave SE Minneapolis, MN 55414",,,https://www.apartments.com/ray-saint-paul-mn/pqsfbcs/
+461,Apartment for Rent,"6301 Pleasant Ave Minneapolis, MN 55423",,,https://www.apartments.com/the-ruby-saint-anthony-mn/ntmws2q/
+462,Townhome for Rent,"2012 30th Ave S Minneapolis, MN 55406",,,https://www.apartments.com/the-ruby-saint-anthony-mn/ntmws2q/
+463,House for Rent,"5629 Thomas Ave S Minneapolis, MN 55410",,,https://www.apartments.com/the-ruby-saint-anthony-mn/ntmws2q/
+464,Condo for Rent,"317 Groveland Ave Minneapolis, MN 55403",,,https://www.apartments.com/the-ruby-saint-anthony-mn/ntmws2q/
+465,Apartment for Rent,"3708 Harriet Ave Minneapolis, MN 55409",,,https://www.apartments.com/arrive-4301-saint-louis-park-mn/y1zh26t/
+466,Condo for Rent,"6401 Colony Way Minneapolis, MN 55435",,,https://www.apartments.com/arrive-4301-saint-louis-park-mn/y1zh26t/
+467,Townhome for Rent,"4310 3rd St NE Minneapolis, MN 55421",,,https://www.apartments.com/arrive-4301-saint-louis-park-mn/y1zh26t/
+468,Apartment for Rent,"1480 47th Ave NE Minneapolis, MN 55421",,,https://www.apartments.com/arrive-4301-saint-louis-park-mn/y1zh26t/
+469,Apartment for Rent,"3101 E 24th St Minneapolis, MN 55406",,,https://www.apartments.com/novo-apartments-richfield-mn/0xemhz3/
+470,Apartment for Rent,"301 5th St SE Minneapolis, MN 55414",,,https://www.apartments.com/novo-apartments-richfield-mn/0xemhz3/
+471,House for Rent,"1725 Bridgewater Rd Minneapolis, MN 55422",,,https://www.apartments.com/novo-apartments-richfield-mn/0xemhz3/
+472,House for Rent,"4509 42nd Ave S Minneapolis, MN 55406",,,https://www.apartments.com/novo-apartments-richfield-mn/0xemhz3/
+473,Condo for Rent,"4207 Lakeside Ave N Minneapolis, MN 55429",,,https://www.apartments.com/minikahda-court-apartments-saint-louis-park-mn/h4l81w0/
+474,House for Rent,"5828 Kellogg Ave Minneapolis, MN 55424",,,https://www.apartments.com/minikahda-court-apartments-saint-louis-park-mn/h4l81w0/
+475,House for Rent,"9321 Wyoming Ave S Minneapolis, MN 55438",,,https://www.apartments.com/minikahda-court-apartments-saint-louis-park-mn/h4l81w0/
+476,House for Rent,"7501 Duluth St Minneapolis, MN 55427",,,https://www.apartments.com/the-lakes-residences-minneapolis-mn/tb7n05c/
+477,House for Rent,"5832 St Johns Ave Minneapolis, MN 55424",,,https://www.apartments.com/the-lakes-residences-minneapolis-mn/tb7n05c/
+478,Townhome for Rent,"3733 DuPont Ave S Minneapolis, MN 55409",,,https://www.apartments.com/the-lakes-residences-minneapolis-mn/tb7n05c/
+479,House for Rent,"3342 Prospect Terrace SE Minneapolis, MN 55414",,,https://www.apartments.com/311-kenwood-apartments-spacious-1-bedroo-minneapolis-mn/qysqepz/
+480,Townhome for Rent,"819 Weeks Ave SE Minneapolis, MN 55414",,,https://www.apartments.com/311-kenwood-apartments-spacious-1-bedroo-minneapolis-mn/qysqepz/
+481,House for Rent,"2730 Glenhurst Ave Minneapolis, MN 55416",,,https://www.apartments.com/311-kenwood-apartments-spacious-1-bedroo-minneapolis-mn/qysqepz/
+482,House for Rent,"1078 11th Ave SE Minneapolis, MN 55414",,,https://www.apartments.com/the-abbey-apartments-minneapolis-mn/ktg7bb9/
